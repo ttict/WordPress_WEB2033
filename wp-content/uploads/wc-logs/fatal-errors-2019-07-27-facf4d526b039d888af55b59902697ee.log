@@ -1,0 +1,16 @@
+2019-07-27T12:17:36+00:00 CRITICAL Uncaught RuntimeException: Unable to claim actions. Database error. in /storage/ssd4/469/10204469/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_wpPostStore.php:600
+Stack trace:
+#0 /storage/ssd4/469/10204469/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_wpPostStore.php(509): ActionScheduler_wpPostStore->claim_actions('f9bc04b66b9a922...', 25, NULL, Array, '')
+#1 /storage/ssd4/469/10204469/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_QueueRunner.php(71): ActionScheduler_wpPostStore->stake_claim(25)
+#2 /storage/ssd4/469/10204469/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_QueueRunner.php(61): ActionScheduler_QueueRunner->do_batch(25)
+#3 /storage/ssd4/469/10204469/public_html/wp-includes/class-wp-hook.php(286): ActionScheduler_QueueRunner->run()
+#4 /storage/ssd4/469/10204469/public_html in /storage/ssd4/469/10204469/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_wpPostStore.php on line 600
+
+2019-07-27T14:17:39+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to UxBuilder\Post\Post::__construct() must be an instance of WP_Post, null given in /storage/ssd4/469/10204469/public_html/wp-content/themes/flatsome/inc/builder/core/server/src/Post/Post.php:14
+Stack trace:
+#0 [internal function]: UxBuilder\Post\Post->__construct(NULL)
+#1 /storage/ssd4/469/10204469/public_html/wp-content/themes/flatsome/inc/builder/core/server/src/Services/Container.php(76): ReflectionClass->newInstanceArgs(Array)
+#2 /storage/ssd4/469/10204469/public_html/wp-content/themes/flatsome/inc/builder/core/server/src/Application.php(69): UxBuilder\Services\Container->create('UxBuilder\\Post\\...', Array)
+#3 /storage/ssd4/469/10204469/public_html/wp-content/themes/flatsome/inc/builder/core/server/src/Services/Container.php(18): UxBuilder\Application->UxBuilder\{closure}(Object(UxBuilder\Services\Container))
+#4 /storage/ssd4/469/10204469/public_html/wp-content/themes/flatsome/inc/builder/core/server/src/Application.php(71): UxBuilder\Services\Container->service('c in /storage/ssd4/469/10204469/public_html/wp-content/themes/flatsome/inc/builder/core/server/src/Post/Post.php on line 14
+

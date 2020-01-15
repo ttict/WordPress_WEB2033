@@ -1,0 +1,19 @@
+2019-07-18T04:54:35+00:00 CRITICAL Uncaught RuntimeException: Unable to claim actions. Database error. in /storage/ssd4/469/10204469/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_wpPostStore.php:600
+Stack trace:
+#0 /storage/ssd4/469/10204469/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_wpPostStore.php(509): ActionScheduler_wpPostStore->claim_actions('c77de1025828707...', 25, NULL, Array, '')
+#1 /storage/ssd4/469/10204469/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_QueueRunner.php(71): ActionScheduler_wpPostStore->stake_claim(25)
+#2 /storage/ssd4/469/10204469/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_QueueRunner.php(61): ActionScheduler_QueueRunner->do_batch(25)
+#3 /storage/ssd4/469/10204469/public_html/wp-includes/class-wp-hook.php(286): ActionScheduler_QueueRunner->run()
+#4 /storage/ssd4/469/10204469/public_html in /storage/ssd4/469/10204469/public_html/wp-content/plugins/woocommerce/includes/libraries/action-scheduler/classes/ActionScheduler_wpPostStore.php on line 600
+
+2019-07-18T15:21:18+00:00 CRITICAL Uncaught Error: Call to a member function configure_dropbox_transfer_mode() on null in /storage/ssd4/469/10204469/public_html/wp-content/plugins/duplicator-pro/duplicator-pro.php:283
+Stack trace:
+#0 /storage/ssd4/469/10204469/public_html/wp-content/plugins/duplicator-pro/duplicator-pro.php(270): duplicator_pro_patched_data_initialization()
+#1 /storage/ssd4/469/10204469/public_html/wp-includes/class-wp-hook.php(286): duplicator_pro_plugins_loaded('')
+#2 /storage/ssd4/469/10204469/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /storage/ssd4/469/10204469/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#4 /storage/ssd4/469/10204469/public_html/wp-settings.php(394): do_action('plugins_loaded')
+#5 /storage/ssd4/469/10204469/public_html/wp-config.php(89): require_once('/storage/ssd4/4...')
+#6 /storage/ssd4/469/10204469/public_html/wp-load.php(37): require_once('/storage/ssd4/4...')
+#7 /storage/ssd4/469/10204469/public_html/wp-admin/admin-ajax.php(22): requir in /storage/ssd4/469/10204469/public_html/wp-content/plugins/duplicator-pro/duplicator-pro.php on line 283
+

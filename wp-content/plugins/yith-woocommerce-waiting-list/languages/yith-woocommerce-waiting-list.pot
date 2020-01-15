@@ -1,0 +1,417 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Waiting List\n"
+"POT-Creation-Date: 2018-05-16 15:14+0200\n"
+"PO-Revision-Date: 2015-04-22 16:20+0100\n"
+"Last-Translator: \n"
+"Language-Team: Yithemes <plugins@yithemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: plugin-fw\n"
+
+#: includes/class.yith-wcwtl-admin.php:131
+#: includes/class.yith-wcwtl-admin.php:154
+msgid "Settings"
+msgstr ""
+
+#: includes/class.yith-wcwtl-admin.php:133
+#: includes/class.yith-wcwtl-admin.php:159
+msgid "Premium Version"
+msgstr ""
+
+#: includes/class.yith-wcwtl-admin.php:155
+msgid "In Stock Email Settings"
+msgstr ""
+
+#: includes/class.yith-wcwtl-admin.php:165
+msgctxt "Plugin page title"
+msgid "Waiting List"
+msgstr ""
+
+#: includes/class.yith-wcwtl-admin.php:166
+msgctxt "Plugin Menu Title"
+msgid "Waiting List"
+msgstr ""
+
+#: includes/class.yith-wcwtl-admin.php:219
+msgid "Plugin Documentation"
+msgstr ""
+
+#: includes/class.yith-wcwtl-frontend.php:272
+msgid "Email Address"
+msgstr ""
+
+#: includes/class.yith-wcwtl-frontend.php:320
+msgid ""
+"You must provide a valid email address to join the waiting list of this "
+"product"
+msgstr ""
+
+#: includes/class.yith-wcwtl-frontend.php:339
+msgid "You have already registered for this waiting list"
+msgstr ""
+
+#: includes/class.yith-wcwtl-frontend.php:346
+msgid "You have been removed from the waiting list for this product"
+msgstr ""
+
+#: includes/class.yith-wcwtl-frontend.php:349
+msgid "An error has occurred. Please try again."
+msgstr ""
+
+#: includes/class.yith-wcwtl-meta.php:104
+msgid "Waiting list"
+msgstr ""
+
+#: includes/class.yith-wcwtl-meta.php:123
+#, php-format
+msgid "Waiting list for the variation: #%s"
+msgstr ""
+
+#: includes/class.yith-wcwtl-meta.php:170
+#, php-format
+msgid "There is %s user in the waiting list for this product"
+msgid_plural "There are %s users in the waiting list for this product"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class.yith-wcwtl-meta.php:174
+msgid "There are no users in this waiting list"
+msgstr ""
+
+#: includes/class.yith-wcwtl-meta.php:195
+msgid "Send the email to the users"
+msgstr ""
+
+#: includes/class.yith-wcwtl-meta.php:227
+msgid "Email sent correctly."
+msgstr ""
+
+#: includes/class.yith-wcwtl-meta.php:233
+msgid "An error has occurred, please try again."
+msgstr ""
+
+#: includes/class.yith-wcwtl.php:205 includes/class.yith-wcwtl.php:238
+#: includes/class.yith-wcwtl.php:266
+msgid "Waiting List Data"
+msgstr ""
+
+#: includes/class.yith-wcwtl.php:242
+msgid "Waiting List Subscriptions"
+msgstr ""
+
+#: includes/class.yith-wcwtl.php:299
+#, php-format
+msgid "Removed customer from waiting list for \"%s\""
+msgstr ""
+
+#: includes/email/class.yith-wcwtl-mail-instock.php:32
+msgid "YITH Waiting list In Stock Email"
+msgstr ""
+
+#: includes/email/class.yith-wcwtl-mail-instock.php:33
+msgid ""
+"When a product is back in stock, this email is sent to all the users "
+"registered in the waiting list of that product."
+msgstr ""
+
+#: includes/email/class.yith-wcwtl-mail-instock.php:35
+msgid "{product_title} is now back in stock on {blogname}"
+msgstr ""
+
+#: includes/email/class.yith-wcwtl-mail-instock.php:36
+msgid "A product you are waiting for is back in stock"
+msgstr ""
+
+#: includes/email/class.yith-wcwtl-mail-instock.php:37
+msgid ""
+"Hi, {product_title} is now back in stock on {blogname}. You have been sent "
+"this email because your email address was registered in a waiting list for "
+"this product. If you would like to purchase {product_title}, please visit "
+"the following link: {product_link}"
+msgstr ""
+
+#: includes/email/class.yith-wcwtl-mail-instock.php:60
+msgid "Email content"
+msgstr ""
+
+#: includes/email/class.yith-wcwtl-mail-instock.php:62
+#, php-format
+msgid "Defaults to <code>%s</code>"
+msgstr ""
+
+#: includes/email/class.yith-wcwtl-mail-instock.php:102
+msgid "link"
+msgstr ""
+
+#: init.php:43
+msgid ""
+"YITH WooCommerce Waiting List is enabled but not effective. It requires "
+"WooCommerce in order to work."
+msgstr ""
+
+#: init.php:52
+msgid ""
+"You can't activate the free version of YITH WooCommerce Waiting List while "
+"you are using the premium one."
+msgstr ""
+
+#: plugin-options/general-options.php:11
+msgid "Upgrade to the PREMIUM VERSION"
+msgstr ""
+
+#: plugin-options/general-options.php:14 plugin-options/general-options.php:21
+msgid "YITH WooCommerce Waiting List"
+msgstr ""
+
+#: plugin-options/general-options.php:15
+msgid "Discover the Advanced Features"
+msgstr ""
+
+#: plugin-options/general-options.php:16
+msgid ""
+"Upgrade to the PREMIUM VERSION of YITH WooCommerce Waiting List to benefit "
+"from all features!"
+msgstr ""
+
+#: plugin-options/general-options.php:23
+msgid "Get Support and Pro Features"
+msgstr ""
+
+#: plugin-options/general-options.php:24
+msgid ""
+"By purchasing the premium version of the plugin, you will take advantage of "
+"the advanced features of the product and you will get one year of free "
+"updates and support through our platform available 24h/24."
+msgstr ""
+
+#: plugin-options/general-options.php:34
+msgid "General Options"
+msgstr ""
+
+#: plugin-options/general-options.php:42
+msgid "Enable Waiting List"
+msgstr ""
+
+#: plugin-options/general-options.php:49
+msgid "Notification message"
+msgstr ""
+
+#: plugin-options/general-options.php:50
+msgid ""
+"A text message to show before the waiting list form in the single product "
+"page."
+msgstr ""
+
+#: plugin-options/general-options.php:52
+msgid "Notify me when the item is back in stock."
+msgstr ""
+
+#: plugin-options/general-options.php:57
+msgid "Add button label"
+msgstr ""
+
+#: plugin-options/general-options.php:58
+msgid "The label of the button to be added to the waiting list"
+msgstr ""
+
+#: plugin-options/general-options.php:60
+msgid "Add to waiting list"
+msgstr ""
+
+#: plugin-options/general-options.php:65
+msgid "Remove button label"
+msgstr ""
+
+#: plugin-options/general-options.php:66
+msgid "The label of the button to be removed from the waiting list"
+msgstr ""
+
+#: plugin-options/general-options.php:68
+msgid "Leave waiting list"
+msgstr ""
+
+#: plugin-options/general-options.php:73
+msgid "Successful registration message"
+msgstr ""
+
+#: plugin-options/general-options.php:74
+msgid "The text for the successful registration in the waiting list."
+msgstr ""
+
+#: plugin-options/general-options.php:76
+msgid "You have been added to the waiting list for this product"
+msgstr ""
+
+#: templates/admin/email-settings-tab.php:19
+msgid "Save changes"
+msgstr ""
+
+#: templates/admin/premium.php:199 templates/admin/premium.php:388
+#, php-format
+msgid ""
+"Upgrade to %1$spremium version%2$s of %1$sYITH WooCommerce Waiting List%2$s "
+"to benefit from all features!"
+msgstr ""
+
+#: templates/admin/premium.php:202 templates/admin/premium.php:391
+msgid "UPGRADE"
+msgstr ""
+
+#: templates/admin/premium.php:203 templates/admin/premium.php:392
+msgid "to the premium version"
+msgstr ""
+
+#: templates/admin/premium.php:218
+msgid "Custom messages"
+msgstr ""
+
+#: templates/admin/premium.php:220
+#, php-format
+msgid ""
+"Notifications shown to your users during their subscription to the list are "
+"entirely customizable.%3$s Write the message text you want to show both for "
+"%1$ssuccessful subscription%2$s and for %1$sunsuccessful subscription%2$s"
+msgstr ""
+
+#: templates/admin/premium.php:229
+msgid "Send emails automatically"
+msgstr ""
+
+#: templates/admin/premium.php:232
+#, php-format
+msgid ""
+"An option explicitly conceived to relieve you of the task to manually "
+"generate the email as soon as the product status is set as “Available”. "
+"%3$sIn fact, with the premium version, %1$semail sending is automatic%2$s "
+"and allows you to automatically manage them and keep your users up to date."
+msgstr ""
+
+#: templates/admin/premium.php:251
+msgid "Keep the list after sending the email"
+msgstr ""
+
+#: templates/admin/premium.php:254
+#, php-format
+msgid ""
+"If you do not want your list is emptied after the product comes back as "
+"\"available\", enable the option %1$s\"Keep the list after email\"%2$s and "
+"you will be able to generate a new email for users in that list whenever "
+"you want."
+msgstr ""
+
+#: templates/admin/premium.php:264
+msgid "Customize the style"
+msgstr ""
+
+#: templates/admin/premium.php:267
+#, php-format
+msgid ""
+"A rich panel option from which you can shape buttons for subscription and "
+"deletion from the list and suit them to the layout of your shop. "
+"%1$sDetails are what make the difference%2$s and you must have the best "
+"tools to get the best results."
+msgstr ""
+
+#: templates/admin/premium.php:283
+msgid "Notification email"
+msgstr ""
+
+#: templates/admin/premium.php:286
+#, php-format
+msgid ""
+"Any time users sends a subscription request, they will be instantly sent a "
+"notification email that confirms they have been successfully added to the "
+"list. %3$sMoreover, from the same email %1$sthey will be able to unsubscribe"
+"%2$s from the list whenever they wanted."
+msgstr ""
+
+#: templates/admin/premium.php:299
+msgid "Custom email content"
+msgstr ""
+
+#: templates/admin/premium.php:302
+#, php-format
+msgid ""
+"The plugin generates two types of email, one that confirms a successful "
+"subscription and abother one to inform users that the product is back in "
+"store. For both of them, %1$syou can customize contents and template file "
+"as you like%2$s. Product data can be recovered dynamically using specific "
+"placeholders."
+msgstr ""
+
+#: templates/admin/premium.php:321
+msgid "Exclusion List"
+msgstr ""
+
+#: templates/admin/premium.php:324
+#, php-format
+msgid ""
+"Do you want that the plugin works only for some and not all \"out of stock"
+"\" products? %1$sExclusion list table%2$s has been developed to meet your "
+"need and to allow you to exclude some specific products for which no email "
+"has to be sent as they come back in stock."
+msgstr ""
+
+#: templates/admin/premium.php:334
+msgid "Waiting list Checklist"
+msgstr ""
+
+#: templates/admin/premium.php:337
+#, php-format
+msgid ""
+"\"Waiting List Checklist\" tab allows you to check any moment the status of "
+"waiting lists for\n"
+"                    %1$sout-of-stock products%2$s. "
+msgstr ""
+
+#: templates/admin/premium.php:341
+#, php-format
+msgid ""
+"For each of them, you have the following options available: %1$sdelete list"
+"%2$s, %1$ssend email%2$s and a %1$sbutton through which you can access to "
+"the list with users%2$s. %3$sNothing prevents you from adding a new user to "
+"the list whenever you want."
+msgstr ""
+
+#: templates/admin/premium.php:357
+msgid "Mandrill"
+msgstr ""
+
+#: templates/admin/premium.php:360
+#, php-format
+msgid ""
+"The use of Mandrill is recommended to those who need to manage in an "
+"%1$sadvanced way%2$s the email sending for their shop.%3$s The integration "
+"with %1$sMandrill%2$s allows managing also those emails sent by YITH "
+"WooCommerce Waiting List in an optimal way."
+msgstr ""
+
+#: templates/admin/premium.php:370
+msgid "Shortcode"
+msgstr ""
+
+#: templates/admin/premium.php:373
+#, php-format
+msgid ""
+"The shortcode has been conceived to allow your users to register to a "
+"specific product %1$swaiting list%2$s in any spot of the site not only "
+"necessarily on the product page.%3$s Manage your contents in the best "
+"possible way and place the button %1$sstrategically%2$s in your pages."
+msgstr ""
+
+#: templates/email/yith-wcwtl-mail.php:16
+msgctxt "Email salutation"
+msgid "Hi There,"
+msgstr ""

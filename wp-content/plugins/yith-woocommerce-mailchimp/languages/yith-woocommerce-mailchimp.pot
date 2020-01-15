@@ -1,0 +1,543 @@
+# Copyright (C) 2019 YITH WooCommerce Mailchimp
+# This file is distributed under the same license as the YITH WooCommerce Mailchimp package.
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Mailchimp 2.1.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/init\n"
+"POT-Creation-Date: 2019-06-13 12:16:08+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/class.yith-wcmc-admin.php:86
+msgid "Integration"
+msgstr ""
+
+#: includes/class.yith-wcmc-admin.php:87
+msgid "Checkout"
+msgstr ""
+
+#: includes/class.yith-wcmc-admin.php:88
+msgid "Premium Version"
+msgstr ""
+
+#: includes/class.yith-wcmc-admin.php:139
+msgid "Update Lists"
+msgstr ""
+
+#: includes/class.yith-wcmc-admin.php:140
+msgid "Update Groups"
+msgstr ""
+
+#: includes/class.yith-wcmc-admin.php:141
+msgid "Update Fields"
+msgstr ""
+
+#: includes/class.yith-wcmc-admin.php:142
+msgid "Connect Store"
+msgstr ""
+
+#: includes/class.yith-wcmc-admin.php:143
+msgid ""
+"Are you sure you want to disconnect your store?\n"
+"\n"
+"This will delete all store data from your Mailchimp account, including "
+"Products, Coupons, Orders and Customers"
+msgstr ""
+
+#: includes/class.yith-wcmc-admin.php:168
+#: includes/class.yith-wcmc-admin.php:169
+msgid "Mailchimp"
+msgstr ""
+
+#: includes/class.yith-wcmc-admin.php:226
+msgid "Mailchimp status"
+msgstr ""
+
+#: includes/class.yith-wcmc-api-exception.php:58
+msgid "Your request could not be processed."
+msgstr ""
+
+#: includes/class.yith-wcmc-api-exception.php:59
+msgid "The action requested was not valid for this resource."
+msgstr ""
+
+#: includes/class.yith-wcmc-api-exception.php:60
+msgid "The resource submitted could not be validated."
+msgstr ""
+
+#: includes/class.yith-wcmc-api-exception.php:61
+msgid "We encountered an unspecified JSON parsing error."
+msgstr ""
+
+#: includes/class.yith-wcmc-api-exception.php:62
+msgid "Your request did not include an API key."
+msgstr ""
+
+#: includes/class.yith-wcmc-api-exception.php:63
+msgid ""
+"Your API key may be invalid, or you’ve attempted to access the wrong data "
+"center."
+msgstr ""
+
+#: includes/class.yith-wcmc-api-exception.php:64
+msgid "You are not permitted to access this resource."
+msgstr ""
+
+#: includes/class.yith-wcmc-api-exception.php:65
+msgid "This account has been disabled."
+msgstr ""
+
+#: includes/class.yith-wcmc-api-exception.php:66
+msgid "The API key provided is linked to a different data center."
+msgstr ""
+
+#: includes/class.yith-wcmc-api-exception.php:67
+msgid "The requested resource could not be found."
+msgstr ""
+
+#: includes/class.yith-wcmc-api-exception.php:68
+msgid ""
+"The requested method and resource are not compatible. See the Allow header "
+"for this resource’s available methods."
+msgstr ""
+
+#: includes/class.yith-wcmc-api-exception.php:69
+msgid "The sub-resource requested is nested too deeply."
+msgstr ""
+
+#: includes/class.yith-wcmc-api-exception.php:70
+msgid ""
+"You can only use the X-HTTP-Method-Override header with the POST method."
+msgstr ""
+
+#: includes/class.yith-wcmc-api-exception.php:71
+msgid "The fields requested from this resource are invalid."
+msgstr ""
+
+#: includes/class.yith-wcmc-api-exception.php:72
+msgid "You have exceeded the limit of 10 simultaneous connections."
+msgstr ""
+
+#: includes/class.yith-wcmc-api-exception.php:73
+msgid ""
+"An unexpected internal error has occurred. Please contact Support for more "
+"information."
+msgstr ""
+
+#: includes/class.yith-wcmc-api-exception.php:74
+msgid "This method has been disabled."
+msgstr ""
+
+#: includes/class.yith-wcmc-privacy.php:28
+msgctxt "Privacy Policy Content"
+msgid "YITH WooCommerce Mailchimp"
+msgstr ""
+
+#: includes/class.yith-wcmc-privacy.php:51
+msgid "During checkout, we’ll track:"
+msgstr ""
+
+#: includes/class.yith-wcmc-privacy.php:53
+msgid ""
+"Email address, first name, last name: we’ll use this information in order to "
+"populate basic information of your account on MailChimp."
+msgstr ""
+
+#: includes/class.yith-wcmc-privacy.php:54
+msgid ""
+"Billing or shipping data: we’ll use this information in order to complete "
+"your account on MailChimp"
+msgstr ""
+
+#: includes/class.yith-wcmc-privacy.php:55
+msgid ""
+"Order total, payment method, customer IP: we’ll use this information in "
+"order to improve your account, and send you targeted newsletters"
+msgstr ""
+
+#: includes/class.yith-wcmc-privacy.php:56
+msgid ""
+"Preferences, products purchased, categories of products purchased: we’ll use "
+"this information in order to improve your profile, and send you targeted "
+"newsletters"
+msgstr ""
+
+#: includes/class.yith-wcmc-privacy.php:58
+msgid "When subscribing to newsletter, we’ll track:"
+msgstr ""
+
+#: includes/class.yith-wcmc-privacy.php:60
+msgid ""
+"Email address: we’ll use this in order to populate basic information of your "
+"account on MailChimp"
+msgstr ""
+
+#: includes/class.yith-wcmc-privacy.php:61
+msgid ""
+"Any other information submitted through the registration form: we’ll use "
+"this information in order to complete your account on MailChimp and send you "
+"targeted emails."
+msgstr ""
+
+#: includes/class.yith-wcmc-privacy.php:63
+msgid ""
+"We’ll ask for your explicit consent before sending any data to MailChimp "
+"servers."
+msgstr ""
+
+#: includes/class.yith-wcmc-privacy.php:66
+msgid ""
+"Members of our team have access to the information you provide us. For "
+"example, both Administrators and Shop Managers can access:"
+msgstr ""
+
+#: includes/class.yith-wcmc-privacy.php:68
+msgid "All personal data sent to MailChimp;"
+msgstr ""
+
+#: includes/class.yith-wcmc-privacy.php:69
+msgid "Log of your consent;"
+msgstr ""
+
+#: includes/class.yith-wcmc-privacy.php:70
+msgid "MailChimp lists to which you are subscribed."
+msgstr ""
+
+#: includes/class.yith-wcmc-privacy.php:72
+msgid ""
+"Our team members have access to these data in order to review what our "
+"plugin sent to MailChimp servers"
+msgstr ""
+
+#: includes/class.yith-wcmc-privacy.php:75
+msgid ""
+"We contact MailChimp in order to subscribe users and retrieve information "
+"about lists and groups. When processing subscriptions, some of your data "
+"will be passed to MailChimp, including information required to target your "
+"account, such as the billing information and the product(s) you’re "
+"purchasing."
+msgstr ""
+
+#: includes/class.yith-wcmc-privacy.php:76
+msgid ""
+"Please see the <a href=\"https://mailchimp.com/legal/privacy/\">MailChimp "
+"Privacy Policy</a> for more details."
+msgstr ""
+
+#: includes/class.yith-wcmc-privacy.php:96
+msgid "Mailchimp Subscribed Lists"
+msgstr ""
+
+#: includes/class.yith-wcmc-privacy.php:137
+msgid "User unsubscribed from %d lists."
+msgstr ""
+
+#: includes/class.yith-wcmc-privacy.php:152
+msgid "Mailchimp Data"
+msgstr ""
+
+#: includes/class.yith-wcmc.php:575
+msgctxt "Default email field name (backend)"
+msgid "Email Address"
+msgstr ""
+
+#: includes/class.yith-wcmc.php:807
+msgctxt "Generic API error message"
+msgid "Server returned an unexpected response; please, try again later"
+msgstr ""
+
+#: includes/class.yith-wcmc.php:1036
+msgid "Privacy Policy"
+msgstr ""
+
+#: includes/class.yith-wcmc.php:1174
+msgid "MAILCHIMP ERROR: (%s) %s"
+msgstr ""
+
+#: includes/class.yith-wcmc.php:1183
+msgid "First name"
+msgstr ""
+
+#: includes/class.yith-wcmc.php:1184
+msgid "Last name"
+msgstr ""
+
+#: includes/class.yith-wcmc.php:1185
+msgid "Email"
+msgstr ""
+
+#: init.php:138
+msgid ""
+"%s is enabled but not effective. It requires WooCommerce in order to work."
+msgstr ""
+
+#: init.php:148
+msgid ""
+"You can't activate the free version of %s while you are using the premium "
+"one."
+msgstr ""
+
+#: plugin-options/checkout-options.php:21
+msgid "Mailchimp Options"
+msgstr ""
+
+#: plugin-options/checkout-options.php:28
+msgid "Register after"
+msgstr ""
+
+#: plugin-options/checkout-options.php:30
+msgid "Select when the user should be added to the list"
+msgstr ""
+
+#: plugin-options/checkout-options.php:33
+msgid "Never"
+msgstr ""
+
+#: plugin-options/checkout-options.php:34
+msgid "Order completed"
+msgstr ""
+
+#: plugin-options/checkout-options.php:35
+msgid "Order placed"
+msgstr ""
+
+#: plugin-options/checkout-options.php:41
+msgid "Show \"Newsletter subscription\" checkbox"
+msgstr ""
+
+#: plugin-options/checkout-options.php:44
+msgid ""
+"When you select this option, a checkbox will be added to the checkout form, "
+"inviting users to subscribe to the newsletter; otherwise, users will be "
+"subscribed automatically"
+msgstr ""
+
+#: plugin-options/checkout-options.php:49
+msgid "\"Newsletter subscription\" label"
+msgstr ""
+
+#: plugin-options/checkout-options.php:51
+msgid ""
+"Enter here the label you want to use for the \"Newsletter subscription\" "
+"checkbox. Use <code>%privacy_policy%</code> to add a link to your store "
+"privacy policy page"
+msgstr ""
+
+#: plugin-options/checkout-options.php:53
+msgid "Subscribe to our cool newsletter"
+msgstr ""
+
+#: plugin-options/checkout-options.php:58
+msgid "Position for \"Newsletter subscription\""
+msgstr ""
+
+#: plugin-options/checkout-options.php:60
+msgid "Select position for \"Newsletter subscription\" checkbox in the page"
+msgstr ""
+
+#: plugin-options/checkout-options.php:63
+msgid "Above customer details"
+msgstr ""
+
+#: plugin-options/checkout-options.php:64
+msgid "Below customer details"
+msgstr ""
+
+#: plugin-options/checkout-options.php:65
+msgid "Above \"Place order\" button"
+msgstr ""
+
+#: plugin-options/checkout-options.php:66
+msgid "Below \"Place order\" button"
+msgstr ""
+
+#: plugin-options/checkout-options.php:67
+msgid "Above \"Review order\" total"
+msgstr ""
+
+#: plugin-options/checkout-options.php:68
+msgid "Above billing details"
+msgstr ""
+
+#: plugin-options/checkout-options.php:69
+msgid "Below billing details"
+msgstr ""
+
+#: plugin-options/checkout-options.php:70
+msgid "Above shipping details"
+msgstr ""
+
+#: plugin-options/checkout-options.php:77
+msgid "Show \"Newsletter subscription\" checked"
+msgstr ""
+
+#: plugin-options/checkout-options.php:80
+msgid ""
+"When you check this option, \"Newsletter subscription\" checkbox will be "
+"printed as already checked"
+msgstr ""
+
+#: plugin-options/checkout-options.php:85
+msgid "Email type"
+msgstr ""
+
+#: plugin-options/checkout-options.php:88
+msgid "User's preferential email type (HTML or plain text)"
+msgstr ""
+
+#: plugin-options/checkout-options.php:90
+msgid "HTML"
+msgstr ""
+
+#: plugin-options/checkout-options.php:91
+msgid "Text"
+msgstr ""
+
+#: plugin-options/checkout-options.php:97
+msgid "Double Opt-in"
+msgstr ""
+
+#: plugin-options/checkout-options.php:100
+msgid ""
+"When you check this option, MailChimp will send a confirmation email before "
+"adding the user to the list"
+msgstr ""
+
+#: plugin-options/checkout-options.php:105
+msgid "Update existing"
+msgstr ""
+
+#: plugin-options/checkout-options.php:108
+msgid ""
+"When you check this option, existing users will be updated and MailChimp "
+"servers will not show errors"
+msgstr ""
+
+#: plugin-options/checkout-options.php:118
+msgid "List Options"
+msgstr ""
+
+#: plugin-options/checkout-options.php:125
+msgid "MailChimp list"
+msgstr ""
+
+#: plugin-options/checkout-options.php:127
+msgid "Select a list for the new user"
+msgstr ""
+
+#: plugin-options/integration-options.php:17
+msgid "Upgrade to the PREMIUM VERSION"
+msgstr ""
+
+#. #-#-#-#-#  yith-woocommerce-mailchimp.pot (YITH WooCommerce Mailchimp 2.1.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: plugin-options/integration-options.php:20
+msgid "YITH WooCommerce Mailchimp"
+msgstr ""
+
+#: plugin-options/integration-options.php:21
+msgid "Discover the Advanced Features"
+msgstr ""
+
+#: plugin-options/integration-options.php:22
+msgid ""
+"Upgrade to the PREMIUM VERSION of YITH WOOCOMMERCE MAILCHIMP to benefit from "
+"all features!"
+msgstr ""
+
+#: plugin-options/integration-options.php:28
+msgid "Get Support and Pro Features"
+msgstr ""
+
+#: plugin-options/integration-options.php:29
+msgid ""
+"By purchasing the premium version of the plugin, you will take advantage of "
+"the advanced features of the product and you will get one year of free "
+"updates and support through our platform available 24h/24."
+msgstr ""
+
+#: plugin-options/integration-options.php:39
+msgid "MailChimp Options"
+msgstr ""
+
+#: plugin-options/integration-options.php:46
+msgid "MailChimp API Key"
+msgstr ""
+
+#: plugin-options/integration-options.php:49
+msgid ""
+"API key used to access MailChimp account; you can get one <a href=\"//admin."
+"mailchimp.com/account/api/\">here</a>"
+msgstr ""
+
+#: plugin-options/integration-options.php:55
+msgid "Integration status"
+msgstr ""
+
+#: templates/admin/types/integration-status.php:11
+msgid "MailChimp user"
+msgstr ""
+
+#: templates/admin/types/integration-status.php:11
+msgid "No user can be found with this API key"
+msgstr ""
+
+#: templates/admin/types/integration-status.php:12
+#: templates/admin/types/integration-status.php:29
+#: templates/admin/types/integration-status.php:35
+msgid "&lt; Not Found &gt;"
+msgstr ""
+
+#: templates/admin/types/integration-status.php:17
+msgid "Status:"
+msgstr ""
+
+#: templates/admin/types/integration-status.php:20
+msgid "Correctly synchronized"
+msgstr ""
+
+#: templates/admin/types/integration-status.php:20
+msgid "OK"
+msgstr ""
+
+#: templates/admin/types/integration-status.php:22
+msgid "Wrong API key"
+msgstr ""
+
+#: templates/admin/types/integration-status.php:22
+msgid "KO"
+msgstr ""
+
+#: templates/admin/types/integration-status.php:27
+msgid "Name:"
+msgstr ""
+
+#: templates/admin/types/integration-status.php:33
+msgid "Email:"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://yithemes.com/themes/plugins/yith-woocommerce-mailchimp/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"<code><strong>YITH WooCommerce Mailchimp</strong></code> allows you to "
+"manage and create forms to register to MailChimp lists, helping you to "
+"outline users through tags and groups in a dynamic way. You will have a "
+"perfect system to send emails with a percentage of conversion higher than "
+"the average. <a href=\"https://yithemes.com/\" target=\"_blank\">Get more "
+"plugins for your e-commerce on <strong>YITH</strong></a>"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "YITH"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://yithemes.com/"
+msgstr ""

@@ -1,0 +1,384 @@
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-1 START @ 03:20:17
+* VERSION: 3.7.3.1
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PHP:		7.1.16 | SAPI: litespeed
+PHP MEMORY:	5000M | SUHOSIN: disabled
+SERVER:		LiteSpeed
+DOC ROOT:	/home/lavorvie/testmp.themevi.com
+DOC ROOT 755:	true
+LOG FILE 644:	true
+REQUEST URL:	http://testmp.themevi.com/dup-installer/main.installer.php?archive=%2Fhome%2Flavorvie%2Ftestmp.themevi.com%2F20180715_demowebsitebanmypham_ef6ae31d811f7e142244_20180715162325_archive.zip&bootloader=installer.php&
+SAFE MODE :	0
+
+--------------------------------------
+ARCHIVE SETUP
+--------------------------------------
+NAME:	20180715_demowebsitebanmypham_ef6ae31d811f7e142244_20180715162325_archive.zip
+SIZE:	40.34MB
+
+>>> Starting ZipArchive Unzip
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 7243
+    [filename] => /home/lavorvie/testmp.themevi.com/20180715_demowebsitebanmypham_ef6ae31d811f7e142244_20180715162325_archive.zip
+    [comment] => 
+)
+File timestamp set to Current: 2018-10-13 15:20:26
+<<< ZipArchive Unzip Complete: true
+
+WEB SERVER CONFIGURATION FILE STATUS:
+- .htaccess file was not reset or backed up.
+- .user.ini file was not reset or backed up.
+- web.config was reset and a backup made to web.config-181013152017.orig.
+
+STEP-1 COMPLETE @ 03:20:26 - RUNTIME: 9.7043 sec.
+
+
+
+********************************************************************************
+* DUPLICATOR PRO INSTALL-LOG
+* STEP-2 START @ 03:20:48
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+
+WARNING: The database script is '1.92MB' in size.  The PHP memory allocation is set
+at '5000M'.  There is a high possibility that the installer script will fail with
+a memory allocation error when trying to load the database.sql file.  It is
+recommended to increase the 'memory_limit' setting in the php.ini config file.
+see: https://snapcreek.com/duplicator/docs/faqs-tech#faq-trouble-056-q 
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 10.1.31 -- Build Server: 10.1.32
+FILE SIZE:	database.sql (1.92MB) - installer-data.sql (1.92MB)
+TIMEOUT:	5000
+MAXPACK:	268435456
+SQLMODE-GLOBAL:	NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+SQLMODE-SESSION:NO_AUTO_VALUE_ON_ZERO
+NEW SQL FILE:	[/home/lavorvie/testmp.themevi.com/installer-data.sql]
+COLLATE FB:	Off
+DB CHUNKING:	disabled
+DB VIEWS:	enabled
+DB PROCEDURES:	enabled
+
+NOTICE: This servers version [10.1.31] is less than the build version [10.1.32].  
+If you find issues after testing your site please referr to this FAQ item.
+https://snapcreek.com/duplicator/docs/faqs-tech/#faq-installer-260-q
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+Starting Cleanup Routine...
+Cleanup Routine Complete
+ERRORS FOUND:	0
+DROPPED TABLES:	0
+RENAMED TABLES:	0
+QUERIES RAN:	285
+
+wp_commentmeta: (0)
+wp_comments: (17)
+wp_duplicator_pro_entities: (5)
+wp_duplicator_pro_packages: (0)
+wp_links: (0)
+wp_options: (301)
+wp_postmeta: (1913)
+wp_posts: (589)
+wp_term_relationships: (125)
+wp_term_taxonomy: (70)
+wp_termmeta: (162)
+wp_terms: (70)
+wp_usermeta: (17)
+wp_users: (1)
+wp_wc_download_log: (0)
+wp_wc_webhooks: (0)
+wp_woocommerce_api_keys: (0)
+wp_woocommerce_attribute_taxonomies: (1)
+wp_woocommerce_downloadable_product_permissions: (0)
+wp_woocommerce_log: (0)
+wp_woocommerce_order_itemmeta: (165)
+wp_woocommerce_order_items: (21)
+wp_woocommerce_payment_tokenmeta: (0)
+wp_woocommerce_payment_tokens: (0)
+wp_woocommerce_sessions: (1)
+wp_woocommerce_shipping_zone_locations: (0)
+wp_woocommerce_shipping_zone_methods: (0)
+wp_woocommerce_shipping_zones: (0)
+wp_woocommerce_tax_rate_locations: (0)
+wp_woocommerce_tax_rates: (0)
+wp_wow_fmp: (1)
+Removed '58' cache/transient rows
+
+INSERT DATA RUNTIME: 1.6902 sec.
+STEP-2 COMPLETE @ 03:20:49 - RUNTIME: 1.7293 sec.
+
+
+
+********************************************************************************
+DUPLICATOR PRO INSTALL-LOG
+STEP-3 START @ 03:21:10
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	latin1
+CHARSET CLIENT:	utf8
+
+--------------------------------------
+SERIALIZER ENGINE
+[*] scan every column
+[~] scan only text columns
+[^] no searchable columns
+--------------------------------------
+Subsite id=-1
+wp_commentmeta^ (0)
+wp_comments~ (17)
+wp_duplicator_pro_entities~ (5)
+wp_duplicator_pro_packages^ (0)
+wp_links^ (0)
+wp_options~ (301)
+wp_postmeta~ (1913)
+wp_posts~ (589)
+wp_term_relationships~ (125)
+wp_term_taxonomy~ (70)
+wp_termmeta~ (162)
+wp_terms~ (70)
+wp_usermeta~ (17)
+wp_users~ (1)
+wp_wc_download_log^ (0)
+wp_wc_webhooks^ (0)
+wp_woocommerce_api_keys^ (0)
+wp_woocommerce_attribute_taxonomies~ (1)
+wp_woocommerce_downloadable_product_permissions^ (0)
+wp_woocommerce_log^ (0)
+wp_woocommerce_order_itemmeta~ (165)
+wp_woocommerce_order_items~ (21)
+wp_woocommerce_payment_tokenmeta^ (0)
+wp_woocommerce_payment_tokens^ (0)
+wp_woocommerce_sessions~ (1)
+wp_woocommerce_shipping_zone_locations^ (0)
+wp_woocommerce_shipping_zone_methods^ (0)
+wp_woocommerce_shipping_zones^ (0)
+wp_woocommerce_tax_rate_locations^ (0)
+wp_woocommerce_tax_rates^ (0)
+wp_wow_fmp~ (1)
+Partial off
+--------------------------------------
+Search1:	'C:/xampp/htdocs/myphamnb' 
+Change1:	'/home/lavorvie/testmp.themevi.com' 
+Search2:	'C:\/xampp\/htdocs\/myphamnb' 
+Change2:	'\/home\/lavorvie\/testmp.themevi.com' 
+Search3:	'C%3A%2Fxampp%2Fhtdocs%2Fmyphamnb%2F' 
+Change3:	'%2Fhome%2Flavorvie%2Ftestmp.themevi.com%2F' 
+Search4:	'C:\xampp\htdocs\myphamnb' 
+Change4:	'/home/lavorvie/testmp.themevi.com' 
+Search5:	'//localhost/myphamnb' 
+Change5:	'//testmp.themevi.com' 
+Search6:	'\/\/localhost\/myphamnb' 
+Change6:	'\/\/testmp.themevi.com' 
+Search7:	'%2F%2Flocalhost%2Fmyphamnb' 
+Change7:	'%2F%2Ftestmp.themevi.com' 
+SCANNED:	Tables:31 	|	 Rows:3459 	|	 Cells:25231 
+UPDATED:	Tables:2 	|	 Rows:648 	|	 Cells:733 
+ERRORS:		0 
+RUNTIME:	0.515900 sec
+
+NEW WP-ADMIN USER:
+- New username 'themevi2' was created successfully.
+
+====================================
+CONFIGURATION FILE UPDATES:
+====================================
+
+UPDATED WP-CONFIG ARK FILE:
+ - '/home/lavorvie/testmp.themevi.com/wp-config-arc.txt'
+
+WEB SERVER CONFIGURATION FILE UPDATED:
+- Preparing .htaccess file with basic setup.
+- Successfully updated the .htaccess file setting.
+
+====================================
+GENERAL UPDATES & CLEANUP:
+====================================
+
+- Removed '0' schedule storage items
+
+====================================
+NOTICES
+====================================
+
+No General Notices Found
+
+
+STEP-3 COMPLETE @ 03:21:11 - RUNTIME: 0.5475 sec. 
+
+
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 7250
+    [filename] => /storage/ssd4/469/10204469/public_html/FlatsomeMyPham102018_75bfc5f76dfe5b2e9436_20181013152535_archive.zip
+    [comment] => 
+)
+File timestamp set to Current: 2019-07-16 23:25:38
+<<< ZipArchive Unzip Complete: true
+
+WEB SERVER CONFIGURATION FILE STATUS:
+- .htaccess was reset and a backup made to .htaccess-190716232529.orig.
+- .user.ini file was not reset or backed up.
+- web.config was reset and a backup made to web.config-190716232529.orig.
+
+STEP-1 COMPLETE @ 11:25:38 - RUNTIME: 9.4016 sec.
+
+
+
+********************************************************************************
+* DUPLICATOR PRO INSTALL-LOG
+* STEP-2 START @ 11:27:48
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+
+WARNING: The database script is '2.01MB' in size.  The PHP memory allocation is set
+at '5000M'.  There is a high possibility that the installer script will fail with
+a memory allocation error when trying to load the database.sql file.  It is
+recommended to increase the 'memory_limit' setting in the php.ini config file.
+see: https://snapcreek.com/duplicator/docs/faqs-tech#faq-trouble-056-q 
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 10.3.14 -- Build Server: 10.1.31
+FILE SIZE:	database.sql (2.01MB) - installer-data.sql (2.01MB)
+TIMEOUT:	5000
+MAXPACK:	16777216
+SQLMODE-GLOBAL:	STRICT_TRANS_TABLES,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+SQLMODE-SESSION:NO_AUTO_VALUE_ON_ZERO
+NEW SQL FILE:	[/storage/ssd4/469/10204469/public_html/installer-data.sql]
+COLLATE FB:	Off
+DB CHUNKING:	disabled
+DB VIEWS:	enabled
+DB PROCEDURES:	enabled
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+Starting Cleanup Routine...
+Cleanup Routine Complete
+ERRORS FOUND:	0
+DROPPED TABLES:	0
+RENAMED TABLES:	0
+QUERIES RAN:	3545
+
+Removed '0' cache/transient rows
+NOTICE: You may have to manually run the installer-data.sql to validate data input.
+             Also check to make sure your installer file is correct and the table prefix
+             'wp_' is correct for this particular version of WordPress. 
+
+
+INSERT DATA RUNTIME: 34.7385 sec.
+STEP-2 COMPLETE @ 11:28:23 - RUNTIME: 34.7962 sec.
+
+
+
+********************************************************************************
+DUPLICATOR PRO INSTALL-LOG
+STEP-3 START @ 11:28:43
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	utf8
+CHARSET CLIENT:	utf8
+
+--------------------------------------
+SERIALIZER ENGINE
+[*] scan every column
+[~] scan only text columns
+[^] no searchable columns
+--------------------------------------
+Subsite id=-1
+wp_commentmeta^ (0)
+wp_comments~ (17)
+wp_duplicator_pro_entities~ (5)
+wp_duplicator_pro_packages~ (1)
+wp_links^ (0)
+wp_options~ (346)
+wp_postmeta~ (1909)
+wp_posts~ (587)
+wp_term_relationships~ (125)
+wp_term_taxonomy~ (70)
+wp_termmeta~ (162)
+wp_terms~ (70)
+wp_usermeta~ (28)
+wp_users~ (2)
+wp_wc_download_log^ (0)
+wp_wc_webhooks^ (0)
+wp_woocommerce_api_keys^ (0)
+wp_woocommerce_attribute_taxonomies~ (1)
+wp_woocommerce_downloadable_product_permissions^ (0)
+wp_woocommerce_log^ (0)
+wp_woocommerce_order_itemmeta~ (165)
+wp_woocommerce_order_items~ (21)
+wp_woocommerce_payment_tokenmeta^ (0)
+wp_woocommerce_payment_tokens^ (0)
+wp_woocommerce_sessions~ (1)
+wp_woocommerce_shipping_zone_locations^ (0)
+wp_woocommerce_shipping_zone_methods^ (0)
+wp_woocommerce_shipping_zones^ (0)
+wp_woocommerce_tax_rate_locations^ (0)
+wp_woocommerce_tax_rates^ (0)
+wp_wow_fmp~ (1)
+Partial off
+--------------------------------------
+Search1:	'/home/lavorvie/testmp.themevi.com' 
+Change1:	'/storage/ssd4/469/10204469/public_html' 
+Search2:	'\/home\/lavorvie\/testmp.themevi.com' 
+Change2:	'\/storage\/ssd4\/469\/10204469\/public_html' 
+Search3:	'%2Fhome%2Flavorvie%2Ftestmp.themevi.com%2F' 
+Change3:	'%2Fstorage%2Fssd4%2F469%2F10204469%2Fpublic_html%2F' 
+Search4:	'\home\lavorvie\testmp.themevi.com' 
+Change4:	'/storage/ssd4/469/10204469/public_html' 
+Search5:	'//testmp.themevi.com' 
+Change5:	'//thait-ph06858-web2033.000webhostapp.com' 
+Search6:	'\/\/testmp.themevi.com' 
+Change6:	'\/\/thait-ph06858-web2033.000webhostapp.com' 
+Search7:	'%2F%2Ftestmp.themevi.com' 
+Change7:	'%2F%2Fthait-ph06858-web2033.000webhostapp.com' 
+Search8:	'http://thait-ph06858-web2033.000webhostapp.com' 
+Change8:	'https://thait-ph06858-web2033.000webhostapp.com' 
+Search9:	'http:\/\/thait-ph06858-web2033.000webhostapp.com' 
+Change9:	'https:\/\/thait-ph06858-web2033.000webhostapp.com' 
+Search10:	'http%3A%2F%2Fthait-ph06858-web2033.000webhostapp.com' 
+Change10:	'https%3A%2F%2Fthait-ph06858-web2033.000webhostapp.com' 
+SCANNED:	Tables:31 	|	 Rows:3511 	|	 Cells:25410 
+UPDATED:	Tables:2 	|	 Rows:647 	|	 Cells:731 
+ERRORS:		0 
+RUNTIME:	12.775100 sec
+
+====================================
+CONFIGURATION FILE UPDATES:
+====================================
+
+UPDATED WP-CONFIG ARK FILE:
+ - '/storage/ssd4/469/10204469/public_html/wp-config-arc.txt'
+
+WEB SERVER CONFIGURATION FILE UPDATED:
+- Preparing .htaccess file with basic setup.
+- Successfully updated the .htaccess file setting.
+
+====================================
+GENERAL UPDATES & CLEANUP:
+====================================
+
+- Removed '0' schedule storage items
+
+====================================
+NOTICES
+====================================
+
+No General Notices Found
+
+
+STEP-3 COMPLETE @ 11:28:56 - RUNTIME: 13.2816 sec. 
+
+

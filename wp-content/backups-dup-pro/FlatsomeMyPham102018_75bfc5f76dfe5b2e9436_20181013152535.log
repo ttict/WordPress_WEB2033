@@ -1,0 +1,53 @@
+
+
+====================================================================
+!RUNTIME ERROR!
+---------------------------------------------------------------------
+MESSAGE:
+Requirements Failed
+DETAILS:
+Array
+(
+    [PHP] => Array
+        (
+            [SAFE_MODE] => Pass
+            [VERSION] => Pass
+            [ZIP] => Pass
+            [FUNC_1] => Pass
+            [FUNC_2] => Pass
+            [FUNC_3] => Pass
+            [ALL] => Pass
+        )
+
+    [IO] => Array
+        (
+            [WPROOT] => Pass
+            [SSDIR] => Pass
+            [SSTMP] => Pass
+            [ALL] => Pass
+        )
+
+    [SRV] => Array
+        (
+            [MYSQL_VER] => Pass
+            [ALL] => Pass
+        )
+
+    [RES] => Array
+        (
+            [INSTALL] => Fail
+        )
+
+    [Success] => 
+)
+
+---------------------------------------------------------------------
+TRACE:
+1. class.pack.runner.php : error (470)
+2. class.web.services.php : process (96)
+3. class-wp-hook.php : process_worker (298)
+4. class-wp-hook.php : apply_filters (323)
+5. plugin.php : do_action (453)
+6. admin-ajax.php : do_action (101)
+====================================================================
+

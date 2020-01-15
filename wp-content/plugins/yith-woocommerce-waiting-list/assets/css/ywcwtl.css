@@ -1,0 +1,12 @@
+#yith-wcwtl-output {
+    margin-bottom: 20px;
+}
+#yith-wcwtl-output:after,
+#yith-wcwtl-output:before {
+    content: '';
+    clear: both;
+    display: table;
+}
+#yith-wcwtl-output input, #yith-wcwtl-output p, #yith-wcwtl-output label {
+    margin-bottom: 10px;
+}

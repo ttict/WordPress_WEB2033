@@ -1,0 +1,111 @@
+Oct 13 15:19:24 ==DUPLICATOR INSTALLER BOOTSTRAP v3.7.3.1==
+Oct 13 15:19:24 ----------------------------------------------------
+Oct 13 15:19:24 Installer bootstrap start
+Oct 13 15:19:24 Using archive /home/lavorvie/testmp.themevi.com/20180715_demowebsitebanmypham_ef6ae31d811f7e142244_20180715162325_archive.zip
+Oct 13 15:19:24 Going to overwrite installer directory since either in overwrite mode or installer directory doesn't exist
+Oct 13 15:19:24 Ready to extract the installer
+Oct 13 15:19:24 ZipArchive exists so using that
+Oct 13 15:19:24 Successfully opened /home/lavorvie/testmp.themevi.com/20180715_demowebsitebanmypham_ef6ae31d811f7e142244_20180715162325_archive.zip
+Oct 13 15:19:24 Extracting all files from archive within dup-installer
+Oct 13 15:19:24 Success: dup-installer/api/class.api.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/api/class.cpnl.base.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/api/class.cpnl.ctrl.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/api/index.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/api/router.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/assets/font-awesome/css/font-awesome.min.css >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/assets/font-awesome/css/index.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/assets/font-awesome/fonts/fontawesome-webfont.eot >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/assets/font-awesome/fonts/fontawesome-webfont.ttf >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/assets/font-awesome/fonts/fontawesome-webfont.woff >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/assets/font-awesome/fonts/fontawesome-webfont.woff2 >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/assets/font-awesome/fonts/FontAwesome.otf >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/assets/font-awesome/fonts/index.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/assets/font-awesome/index.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/assets/images/index.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/assets/images/ui-bg_glass_55_fbf9ee_1x400.png >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/assets/images/ui-bg_glass_65_ffffff_1x400.png >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/assets/images/ui-bg_glass_75_dadada_1x400.png >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/assets/images/ui-bg_glass_75_e6e6e6_1x400.png >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/assets/images/ui-bg_glass_95_fef1ec_1x400.png >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/assets/images/ui-bg_highlight-soft_75_cccccc_1x100.png >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/assets/images/ui-icons_222222_256x240.png >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/assets/images/ui-icons_2e83ff_256x240.png >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/assets/images/ui-icons_454545_256x240.png >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/assets/images/ui-icons_888888_256x240.png >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/assets/images/ui-icons_cd0a0a_256x240.png >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/assets/inc.css.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/assets/inc.js.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/assets/inc.libs.css.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/assets/inc.libs.js.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/assets/index.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/classes/class.crypt.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/classes/class.db.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/classes/class.engine.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/classes/class.http.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/classes/class.installer.state.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/classes/class.logging.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/classes/class.server.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/classes/config/class.archive.config.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/classes/config/class.conf.srv.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/classes/config/class.conf.wp.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/classes/config/class.constants.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/classes/config/index.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/classes/index.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/classes/utilities/class.u.multisite.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/classes/utilities/class.u.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/classes/utilities/index.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/ctrls/ctrl.base.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/ctrls/ctrl.s1.extraction.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/ctrls/ctrl.s1.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/ctrls/ctrl.s2.base.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/ctrls/ctrl.s2.dbinstall.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/ctrls/ctrl.s2.dbtest.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/ctrls/ctrl.s3.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/ctrls/index.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/index.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/main.installer.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/views/index.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/views/view.api.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/views/view.help.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/views/view.init1.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/views/view.s1.base.deletesite.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/views/view.s1.base.movesite.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/views/view.s1.base.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/views/view.s1.terms.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/views/view.s2.base.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/views/view.s2.basic.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/views/view.s2.cpnl.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/views/view.s2.dbtest.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/views/view.s3.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/views/view.s4.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/archive.cfg >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/lib/snaplib/class.snaplib.logger.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/lib/snaplib/class.snaplib.u.io.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/lib/snaplib/class.snaplib.u.net.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/lib/snaplib/class.snaplib.u.os.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/lib/snaplib/class.snaplib.u.stream.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/lib/snaplib/class.snaplib.u.string.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/lib/snaplib/class.snaplib.u.ui.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/lib/snaplib/class.snaplib.u.url.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/lib/snaplib/class.snaplib.u.util.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/lib/snaplib/index.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/lib/snaplib/snaplib.all.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/lib/fileops/class.fileops.constants.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/lib/fileops/class.fileops.state.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/lib/fileops/class.fileops.u.delete.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/lib/fileops/class.fileops.u.move.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/lib/fileops/fileops.ppp >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Success: dup-installer/lib/fileops/index.php >>> /home/lavorvie/testmp.themevi.com
+Oct 13 15:19:24 Successfully closed /home/lavorvie/testmp.themevi.com/20180715_demowebsitebanmypham_ef6ae31d811f7e142244_20180715162325_archive.zip
+Oct 13 15:19:24 Successfully extracted with ZipArchive
+Oct 13 15:19:24 Set permissions of /home/lavorvie/testmp.themevi.com/dup-installer to 755<br/>
+Oct 13 15:19:24 Set permissions of /home/lavorvie/testmp.themevi.com/dup-installer/api to 755<br/>
+Oct 13 15:19:24 Set permissions of /home/lavorvie/testmp.themevi.com/dup-installer/assets to 755<br/>
+Oct 13 15:19:24 Set permissions of /home/lavorvie/testmp.themevi.com/dup-installer/classes to 755<br/>
+Oct 13 15:19:24 Set permissions of /home/lavorvie/testmp.themevi.com/dup-installer/ctrls to 755<br/>
+Oct 13 15:19:24 Set permissions of /home/lavorvie/testmp.themevi.com/dup-installer/lib to 755<br/>
+Oct 13 15:19:24 Set permissions of /home/lavorvie/testmp.themevi.com/dup-installer/views to 755<br/>
+Oct 13 15:19:24 Set permissions of /home/lavorvie/testmp.themevi.com/dup-installer/archive.cfg to 644<br/>
+Oct 13 15:19:24 Set permissions of /home/lavorvie/testmp.themevi.com/dup-installer/index.php to 644<br/>
+Oct 13 15:19:24 Set permissions of /home/lavorvie/testmp.themevi.com/dup-installer/main.installer.php to 644<br/>
+Oct 13 15:19:24 No detected errors so redirecting to the main installer. Main Installer URI = http://testmp.themevi.com/dup-installer/main.installer.php?archive=%2Fhome%2Flavorvie%2Ftestmp.themevi.com%2F20180715_demowebsitebanmypham_ef6ae31d811f7e142244_20180715162325_archive.zip&bootloader=installer.php&

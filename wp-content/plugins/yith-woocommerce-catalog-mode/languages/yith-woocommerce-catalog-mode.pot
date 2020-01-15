@@ -1,0 +1,284 @@
+# Copyright (C) 2018 YITH WooCommerce Catalog Mode
+# This file is distributed under the same license as the YITH WooCommerce Catalog Mode package.
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Catalog Mode 1.6.3\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/init\n"
+"POT-Creation-Date: 2018-12-07 15:43:20+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: class.yith-woocommerce-catalog-mode.php:154
+#: class.yith-woocommerce-catalog-mode.php:164
+msgid "Settings"
+msgstr ""
+
+#: class.yith-woocommerce-catalog-mode.php:155
+msgid "Exclusion List"
+msgstr ""
+
+#: class.yith-woocommerce-catalog-mode.php:156
+msgid "Texts replacing price"
+msgstr ""
+
+#: class.yith-woocommerce-catalog-mode.php:157
+msgid "Custom Button Url List"
+msgstr ""
+
+#: class.yith-woocommerce-catalog-mode.php:160
+msgid "Vendor Exclusion List"
+msgstr ""
+
+#: class.yith-woocommerce-catalog-mode.php:165
+msgid "Premium Version"
+msgstr ""
+
+#: class.yith-woocommerce-catalog-mode.php:172
+msgid "Catalog Mode"
+msgstr ""
+
+#: init.php:25
+msgid ""
+"YITH WooCommerce Catalog Mode is enabled but not effective. It requires "
+"WooCommerce in order to work."
+msgstr ""
+
+#: init.php:33
+msgid ""
+"You can't activate the free version of YITH WooCommerce Catalog Mode while "
+"you are using the premium one."
+msgstr ""
+
+#: plugin-options/settings-options.php:20
+msgid "Upgrade to the PREMIUM VERSION"
+msgstr ""
+
+#. #-#-#-#-#  yith-woocommerce-catalog-mode.pot (YITH WooCommerce Catalog Mode 1.6.3)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: plugin-options/settings-options.php:23
+#: plugin-options/settings-options.php:29
+msgid "YITH WooCommerce Catalog Mode"
+msgstr ""
+
+#: plugin-options/settings-options.php:24
+msgid "Discover the Advanced Features"
+msgstr ""
+
+#: plugin-options/settings-options.php:25
+msgid ""
+"Upgrade to the PREMIUM VERSION of YITH WooCommerce Catalog Mode to benefit "
+"from all features!"
+msgstr ""
+
+#: plugin-options/settings-options.php:31
+msgid "Get Support and Pro Features"
+msgstr ""
+
+#: plugin-options/settings-options.php:32
+msgid ""
+"By purchasing the premium version of the plugin, you will take advantage of "
+"the advanced features of the product and you will get one year of free "
+"updates and support through our platform available 24h/24."
+msgstr ""
+
+#: plugin-options/settings-options.php:42
+msgid "General Settings"
+msgstr ""
+
+#: plugin-options/settings-options.php:46
+msgid "Enable YITH WooCommerce Catalog Mode"
+msgstr ""
+
+#: plugin-options/settings-options.php:57
+msgid "Catalog Mode Settings"
+msgstr ""
+
+#: plugin-options/settings-options.php:61
+msgid "\"Add to cart\" button"
+msgstr ""
+
+#: plugin-options/settings-options.php:63
+msgid "Hide in product detail page"
+msgstr ""
+
+#: plugin-options/settings-options.php:70
+msgid "Hide in other shop pages"
+msgstr ""
+
+#: plugin-options/settings-options.php:77
+msgid "Admin View"
+msgstr ""
+
+#: plugin-options/settings-options.php:79
+msgid "Enable Catalog Mode also for administrators"
+msgstr ""
+
+#: plugin-options/settings-options.php:88
+msgid "Other Settings"
+msgstr ""
+
+#: plugin-options/settings-options.php:93
+msgid "Disable shop"
+msgstr ""
+
+#: plugin-options/settings-options.php:95
+msgid ""
+"Hide and disable \"Cart\" page, \"Checkout\" page and all \"Add to Cart\" "
+"buttons"
+msgstr ""
+
+#: templates/admin/premium.php:237 templates/admin/premium.php:411
+msgid ""
+"Upgrade to %1$spremium version%2$s of %1$sYITH WooCommerce Catalog Mode%2$s "
+"to benefit from all features!"
+msgstr ""
+
+#: templates/admin/premium.php:240 templates/admin/premium.php:414
+msgid "UPGRADE"
+msgstr ""
+
+#: templates/admin/premium.php:241 templates/admin/premium.php:415
+msgid "to the premium version"
+msgstr ""
+
+#: templates/admin/premium.php:247
+msgid "Premium Features"
+msgstr ""
+
+#: templates/admin/premium.php:255
+msgid "Hide price"
+msgstr ""
+
+#: templates/admin/premium.php:258
+msgid ""
+"Hide the price of products in your shop and replace it with a text. Decide "
+"if some of the products have to be excluded and if %1$shiding price%2$s has "
+"to be applied to all or restricted only to unlogged users."
+msgstr ""
+
+#: templates/admin/premium.php:268
+msgid "Inquiry form"
+msgstr ""
+
+#: templates/admin/premium.php:271
+msgid ""
+"Improve single product page by adding a tab with an %1$sinquiry form%2$s "
+"explicitly thought to let them send messages to site administrator."
+msgstr ""
+
+#: templates/admin/premium.php:287
+msgid "Custom button"
+msgstr ""
+
+#: templates/admin/premium.php:290
+msgid ""
+"Add a button in single product page to call users to a specific %1$saction"
+"%2$s, depending on the specified %1$slink%2$s (email sending, skype call, "
+"telephone call)."
+msgstr ""
+
+#: templates/admin/premium.php:300
+msgid "Product reviews"
+msgstr ""
+
+#: templates/admin/premium.php:303
+msgid ""
+"You can disable product %1$sreviewing system%2$s of your shop and decide if "
+"applying it to all users or just to unlogged ones."
+msgstr ""
+
+#: templates/admin/premium.php:319
+msgid "Exclusion list"
+msgstr ""
+
+#: templates/admin/premium.php:322
+msgid ""
+"Set plugin options, but if you want that options concerning price visibility "
+"and ‘Add to cart’ do not apply to specific products, add them to "
+"%1$sexclusion list%2$s and, voilà, problem solved."
+msgstr ""
+
+#: templates/admin/premium.php:332
+msgid "REVERSE EXCLUSION LIST"
+msgstr ""
+
+#: templates/admin/premium.php:335
+msgid ""
+"Apply Catalog Mode to some items only: add them to the \"Exclusion List\" "
+"and %1$smake it work in the opposite way as usual%2$s. All items in the shop "
+"show price and “Add to Cart” button, while items in the list don’t."
+msgstr ""
+
+#: templates/admin/premium.php:351
+msgid "Source page of the request"
+msgstr ""
+
+#: templates/admin/premium.php:354
+msgid ""
+"Thanks to the %1$s\"Product Permalink\"%2$s option you will be able to know "
+"from which page your users have generated the request.%3$sThe email "
+"generated from the request form will include the address of the page: "
+"another important information that can be really useful for you."
+msgstr ""
+
+#: templates/admin/premium.php:364
+msgid "Users"
+msgstr ""
+
+#: templates/admin/premium.php:367
+msgid ""
+"By default, the plugin requires for configured rules to be valid for all "
+"users of the shop, registered or not. However, this can be changed by "
+"limiting the functioning of options only to %1$sunregistered users%2$s or to "
+"those who are logged from one of the specified nations."
+msgstr ""
+
+#: templates/admin/premium.php:383
+msgid "YITH WOOCOMMERCE MULTI VENDOR"
+msgstr ""
+
+#: templates/admin/premium.php:386
+msgid ""
+"Integration with %1$sMulti Vendor%2$s will allow vendors to configure "
+"catalog options specifically for their own products.%3$sSite administrator "
+"can decide to %1$soverwrite the product settings%2$s configured by vendors "
+"and have the last word "
+msgstr ""
+
+#: templates/admin/premium.php:396
+msgid "100% WPML Compatible"
+msgstr ""
+
+#: templates/admin/premium.php:399
+msgid ""
+"Thanks to its full compatibility with WPML, you could create and configure a "
+"different %1$scontact form%2$s for any language installed on your site.%3$s "
+"In this way, the emails will be sorted to different addresses basing on the "
+"%1$slanguage%2$s of the page visited by the user when the sending occurs."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://yithemes.com/themes/plugins/yith-woocommerce-catalog-mode/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"<code><strong>YITH WooCommerce Catalog Mode</strong></code> allows hiding "
+"product prices, cart and checkout from your store and turning it into a "
+"performing product catalogue. You will be able to adjust your catalogue "
+"settings as you prefer based on your requirements. <a href=\"https://"
+"yithemes.com/\" target=\"_blank\">Get more plugins for your e-commerce shop "
+"on <strong>YITH</strong></a>"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "YITH"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://yithemes.com/"
+msgstr ""

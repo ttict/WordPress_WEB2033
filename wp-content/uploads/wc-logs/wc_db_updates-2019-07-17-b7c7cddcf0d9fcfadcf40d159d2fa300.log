@@ -1,0 +1,184 @@
+2019-07-17T15:34:20+00:00 INFO Queuing 3.1.2 - wc_update_312_shop_manager_capabilities
+2019-07-17T15:34:20+00:00 INFO Queuing 3.1.2 - wc_update_312_db_version
+2019-07-17T15:34:20+00:00 INFO Queuing 3.2.0 - wc_update_320_mexican_states
+2019-07-17T15:34:20+00:00 INFO Queuing 3.2.0 - wc_update_320_db_version
+2019-07-17T15:34:20+00:00 INFO Queuing 3.3.0 - wc_update_330_image_options
+2019-07-17T15:34:20+00:00 INFO Queuing 3.3.0 - wc_update_330_webhooks
+2019-07-17T15:34:20+00:00 INFO Queuing 3.3.0 - wc_update_330_product_stock_status
+2019-07-17T15:34:20+00:00 INFO Queuing 3.3.0 - wc_update_330_set_default_product_cat
+2019-07-17T15:34:20+00:00 INFO Queuing 3.3.0 - wc_update_330_clear_transients
+2019-07-17T15:34:20+00:00 INFO Queuing 3.3.0 - wc_update_330_set_paypal_sandbox_credentials
+2019-07-17T15:34:20+00:00 INFO Queuing 3.3.0 - wc_update_330_db_version
+2019-07-17T15:34:20+00:00 INFO Queuing 3.4.0 - wc_update_340_states
+2019-07-17T15:34:20+00:00 INFO Queuing 3.4.0 - wc_update_340_state
+2019-07-17T15:34:20+00:00 INFO Queuing 3.4.0 - wc_update_340_last_active
+2019-07-17T15:34:20+00:00 INFO Queuing 3.4.0 - wc_update_340_db_version
+2019-07-17T15:34:20+00:00 INFO Queuing 3.4.3 - wc_update_343_cleanup_foreign_keys
+2019-07-17T15:34:20+00:00 INFO Queuing 3.4.3 - wc_update_343_db_version
+2019-07-17T15:34:24+00:00 INFO Running wc_update_312_shop_manager_capabilities callback
+2019-07-17T15:34:24+00:00 INFO Finished running wc_update_312_shop_manager_capabilities callback
+2019-07-17T15:34:24+00:00 INFO Running wc_update_312_db_version callback
+2019-07-17T15:34:24+00:00 INFO Finished running wc_update_312_db_version callback
+2019-07-17T15:34:24+00:00 INFO Running wc_update_320_mexican_states callback
+2019-07-17T15:34:27+00:00 INFO Finished running wc_update_320_mexican_states callback
+2019-07-17T15:34:27+00:00 INFO Running wc_update_320_db_version callback
+2019-07-17T15:34:27+00:00 INFO Finished running wc_update_320_db_version callback
+2019-07-17T15:34:27+00:00 INFO Running wc_update_330_image_options callback
+2019-07-17T15:34:27+00:00 INFO Finished running wc_update_330_image_options callback
+2019-07-17T15:34:27+00:00 INFO Running wc_update_330_webhooks callback
+2019-07-17T15:34:27+00:00 INFO Finished running wc_update_330_webhooks callback
+2019-07-17T15:34:27+00:00 INFO Running wc_update_330_product_stock_status callback
+2019-07-17T15:34:27+00:00 INFO Finished running wc_update_330_product_stock_status callback
+2019-07-17T15:34:27+00:00 INFO Running wc_update_330_set_default_product_cat callback
+2019-07-17T15:34:27+00:00 INFO Finished running wc_update_330_set_default_product_cat callback
+2019-07-17T15:34:27+00:00 INFO Running wc_update_330_clear_transients callback
+2019-07-17T15:34:27+00:00 INFO Finished running wc_update_330_clear_transients callback
+2019-07-17T15:34:27+00:00 INFO Running wc_update_330_set_paypal_sandbox_credentials callback
+2019-07-17T15:34:27+00:00 INFO Finished running wc_update_330_set_paypal_sandbox_credentials callback
+2019-07-17T15:34:27+00:00 INFO Running wc_update_330_db_version callback
+2019-07-17T15:34:28+00:00 INFO Finished running wc_update_330_db_version callback
+2019-07-17T15:34:28+00:00 INFO Running wc_update_340_states callback
+2019-07-17T15:34:28+00:00 INFO Finished running wc_update_340_states callback
+2019-07-17T15:34:28+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:28+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:28+00:00 INFO Running wc_update_340_last_active callback
+2019-07-17T15:34:28+00:00 INFO Finished running wc_update_340_last_active callback
+2019-07-17T15:34:28+00:00 INFO Running wc_update_340_db_version callback
+2019-07-17T15:34:28+00:00 INFO Finished running wc_update_340_db_version callback
+2019-07-17T15:34:28+00:00 INFO Running wc_update_343_cleanup_foreign_keys callback
+2019-07-17T15:34:31+00:00 INFO Finished running wc_update_343_cleanup_foreign_keys callback
+2019-07-17T15:34:31+00:00 INFO Running wc_update_343_db_version callback
+2019-07-17T15:34:31+00:00 INFO Finished running wc_update_343_db_version callback
+2019-07-17T15:34:31+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:31+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:31+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:31+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:31+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:32+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:32+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:32+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:32+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:32+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:32+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:32+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:32+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:32+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:33+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:33+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:33+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:33+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:33+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:33+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:33+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:33+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:34+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:34+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:34+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:34+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:34+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:34+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:34+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:35+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:35+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:35+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:35+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:35+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:36+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:36+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:36+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:36+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:36+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:36+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:36+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:37+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:37+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:37+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:37+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:37+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:37+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:38+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:38+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:38+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:38+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:38+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:38+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:38+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:38+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:38+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:38+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:38+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:38+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:39+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:39+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:39+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:39+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:39+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:39+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:39+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:40+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:40+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:40+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:40+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:40+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:40+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:40+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:40+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:40+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:40+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:40+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:41+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:41+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:41+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:42+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:42+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:42+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:42+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:43+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:43+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:43+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:43+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:43+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:44+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:48+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:48+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:48+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:48+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:48+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:49+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:49+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:49+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:49+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:50+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:50+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:50+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:50+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:50+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:50+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:50+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:50+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:50+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:50+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:50+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:50+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:50+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:50+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:50+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:50+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:51+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:51+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:51+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:51+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:51+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:51+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:51+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:51+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:51+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:51+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:51+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:52+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:52+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:52+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:52+00:00 INFO wc_update_340_state callback needs to run again
+2019-07-17T15:34:52+00:00 INFO Running wc_update_340_state callback
+2019-07-17T15:34:52+00:00 INFO Finished running wc_update_340_state callback
+2019-07-17T15:34:52+00:00 INFO Data update complete

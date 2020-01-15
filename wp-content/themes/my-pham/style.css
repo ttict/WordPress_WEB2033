@@ -1,0 +1,177 @@
+/*
+Theme Name: TT Watch
+Description: This is a child theme for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.0
+*/
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+.html_after_addtocart{background-color: #fff1dd;
+    padding: 8px;
+    border: 1px dotted red;
+    font-size: 19px;
+}
+.form-flat input:not([type="submit"]){    border-radius: 3px;border: 1px solid #318a00;}.searchform-wrapper.form-flat .flex-col:last-of-type{    margin-left: -9px;
+    background: #dd3333;
+    line-height: 35px;
+    color: white;
+    padding-left: 0px;    border-bottom-right-radius: 3px;
+    border-top-right-radius: 3px;}
+.header-hotline{width:49%; margin-right: 10px; float: left; color: green}
+.header-phone{width: 49%; float: right;}
+#mega-menu-wrap{background:#fe9705;}
+#mega_menu{margin-top: 8px;border: 1px solid #efefef;
+    background: white;}
+#wide-nav > .flex-row > .flex-left {
+    width: 25%;
+    min-width: 294px;
+    margin-right: 15px;
+}
+#mega_menu li a {
+    padding: 8px 15px;
+    display: block;
+    font-size: 16px;padding-left: 10px;
+}
+#content{    background: #ececec}
+.header-main .nav > li > a {
+    line-height: 20px;
+}
+.nav-dark .cart-icon strong {
+    color: #fff;
+    border-color: #fff;
+    width: 17px;
+    height: 16px;
+}
+.nav-spacing-medium>li{margin: 0 0px;}.nav>li>a{padding: 0px}
+.form-flat .flex-row .flex-col{    margin-bottom: 7px;}
+.header-nav header-nav-main nav nav-left  nav-spacing-medium  .html custom html_topbar_left{width:100%}
+#mega_menu > li > ul.sub-menu{top:0;width: 100%;box-shadow: 0 0px 0px rgba(0, 0, 0, .175);}
+#mega_menu ul.sub-menu > li > a{width:100%}
+#mega_menu > li > ul.sub-menu li a{padding-left:0px}
+#mega_menu ul.sub-menu > li{list-style: square;    color: #fe9705;
+    margin-left: 30px;}
+#mega_menu ul.sub-menu li:hover {background: black}
+.tabbed-content .nav>li.active>a{color: rgb(254, 151, 5);
+    text-transform: uppercase;border: 1px solid;
+}
+
+.tabbed-content .nav>li>a{color: black; text-transform: uppercase;}
+.tabbed-content .nav-uppercase>li>a{letter-spacing: 0px;}
+.tabbed-content .nav-divided>li{padding-right:10px; padding-top: 5px; padding-bottom: 5px}
+.col-inner .badge-container{display:none}
+.price-wrapper .price del{display: inline-block}
+.col-inner .box-text.text-center{padding-left:7px; padding-right:7px}
+.col-inner .box-image img{border-radius: 3px}
+.price-wrapper{margin-top: 10px;}
+.title-wrapper a{font-weight:bold}
+.price-wrapper ins {color: #d60000}
+.title-wrapper a:hover{color: #fe9705}
+.row-small>.flickity-viewport>.flickity-slider>.col{padding: 0 10px 10px;}
+.add-to-cart-button a{text-transform: uppercase; font-weight: normal}
+.button.primary:not(.is-outline){border-radius: 4px; background-color: #58ab00}
+#wrapper>.message-wrapper {
+    width: 7%;
+    background: white;
+    margin-top: 10px;
+    padding-top: .75em;
+    padding-bottom: .75em;
+    margin-bottom: 10px;
+    font-size: 1.1em;
+    z-index: 99;
+    right: 0;
+    position: absolute;
+    font-size: 14px;
+    text-align: justify;
+}
+.breadcrumbs a {
+    color: rgba(102,102,102,0.7);
+    font-weight: normal;
+    text-transform: none;
+    font-size: 14px;
+}
+.is-divider {
+    background-color: #F7F7F7;
+    display: none;
+}
+.product-main del span.amount{font-size: 15px}
+.product-main .badge-container{display:none}
+.row-large>.col{padding: 0 10px 10px;}
+.product-main h1{font-size: 22px}
+.product-main .product-short-description p{    font-size: 16px;
+    color: #2b2b2b;text-align:justify;margin-bottom: 5px;}
+.product-main .product-short-description li{    font-size: 16px;
+    color: #2b2b2b;text-align:justify}
+.product-main .product-short-description li a{    font-size: 16px;
+    color: #2b2b2b;text-align:justify}
+.product_list_widget del{display:none}
+.product_list_widget .woocommerce-Price-currencySymbol{display:none}
+.product_list_widget ins{color: red}
+.product_list_widget span{font-size:16px}
+.product_list_widget .ul.product_list_widget li img{height:66px}
+.product-main .cart{margin-bottom:0px; margin-top:30px}
+.product_meta>span{padding: 10px 0;}
+.product-main .tabbed-content .nav>li.active>a{padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    background: #f7f7f7;
+    padding-bottom: 5px;}
+.tabbed-content .nav-uppercase>li>a {
+        letter-spacing: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    background: #f7f7f7;
+    padding-bottom: 5px;
+    border-radius: 4px;
+    border: 1px solid #65c400;
+}
+#mega_menu > li > ul.sub-menu{    border: 1px solid #ececec;}
+.san-pham-lam-sach-da .box {background: white;
+    border-radius: 4px;
+    border: 1px solid #dedede;
+    padding: 8px;}
+
+.san-pham-lam-sach-da .box-text{    padding-top: 5px;
+    padding-bottom: 2px;}
+
+.san-pham-lam-sach-da .col-inner .box-text.text-center{padding-left:0px; padding-right:0px}
+
+.san-pham-lam-sach-da .row-small>.col{    padding: 0 5px 10px;}
+.san-pham-lam-sach-da  .box-image{height:182px}
+.price-wrapper span.amount{color: #d60000;}
+
+.product_list_widget span.amount{color: #d60000;}
+#product-sidebar .product_list_widget{margin-top: 10px;}
+.off-canvas .sidebar-inner{    padding: 10px 10px;}
+.footer-wrapper span{font-size:15px}
+input[type='text']{    border: 1px solid #fe9705;    box-shadow: inset 0 0px 0px rgba(0,0,0,0.1);}
+input[type='email']{    border: 1px solid #fe9705;    box-shadow: inset 0 0px 0px rgba(0,0,0,0.1);}
+textarea{   border: 1px solid #fe9705;    box-shadow: inset 0 0px 0px rgba(0,0,0,0.1);}
+input[type='submit']:not(.is-form){background-color: #fe9705;
+    width: 100%;
+    border-radius: 4px;
+    margin: 0 auto;
+    display: inherit;}
+.article-inner .relative{display:none}
+.button-facebook{padding:0;margin:0}
+.product-main .cart{margin-top:15px}
+.row.row-large {
+    width: 100%;
+}
+.product-main{padding-top:20px}
+.product-main .form-flat button{border-radius:4px}
+.devvn_woocommerce_price_prefix{font-size:17px}
+.devvn_woocommerce_price_suffix{font-size:17px}
+.product-summary .woocommerce-Price-currencySymbol {
+    font-size: 12px;
+    vertical-align: top;
+    display: inline-block;
+    margin-top: 0;}
+
+@media only screen and (max-width: 48em) {
+/*************** ADD MOBILE ONLY CSS HERE  ***************/
+
+
+@media screen and (min-width: 850px){
+.product-main .large-9{max-width:100%}}

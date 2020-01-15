@@ -1,0 +1,1227 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Mailchimp\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/init\n"
+"POT-Creation-Date: 2019-06-13 12:16:08+00:00\n"
+"PO-Revision-Date: 2019-02-07 16:52+0100\n"
+"Last-Translator: \n"
+"Language-Team: Your Inspiration Themes <plugins@yithemes.com>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;__ngettext_noop:1,2;_n_noop:1,2;"
+"_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: plugin-fw\n"
+
+#: includes/class.yith-wcmc-admin.php:86
+msgid "Integration"
+msgstr "Integración"
+
+#: includes/class.yith-wcmc-admin.php:87
+msgid "Checkout"
+msgstr "Página de pago"
+
+#: includes/class.yith-wcmc-admin.php:88
+msgid "Premium Version"
+msgstr "Versión Premium"
+
+#: includes/class.yith-wcmc-admin.php:139
+msgid "Update Lists"
+msgstr "Actualizar Listas"
+
+#: includes/class.yith-wcmc-admin.php:140
+msgid "Update Groups"
+msgstr "Actualizar Grupos"
+
+#: includes/class.yith-wcmc-admin.php:141
+msgid "Update Fields"
+msgstr "Actualizar campos"
+
+#: includes/class.yith-wcmc-admin.php:142
+msgid "Connect Store"
+msgstr ""
+
+#: includes/class.yith-wcmc-admin.php:143
+msgid ""
+"Are you sure you want to disconnect your store?\n"
+"\n"
+"This will delete all store data from your Mailchimp account, including "
+"Products, Coupons, Orders and Customers"
+msgstr ""
+
+#: includes/class.yith-wcmc-admin.php:168
+#: includes/class.yith-wcmc-admin.php:169
+msgid "Mailchimp"
+msgstr "Mailchimp"
+
+#: includes/class.yith-wcmc-admin.php:226
+#, fuzzy
+msgid "Mailchimp status"
+msgstr "Lista MailChimp"
+
+#: includes/class.yith-wcmc-api-exception.php:58
+msgid "Your request could not be processed."
+msgstr ""
+
+#: includes/class.yith-wcmc-api-exception.php:59
+#, fuzzy
+msgid "The action requested was not valid for this resource."
+msgstr "Has solicitado una operación inválida."
+
+#: includes/class.yith-wcmc-api-exception.php:60
+msgid "The resource submitted could not be validated."
+msgstr ""
+
+#: includes/class.yith-wcmc-api-exception.php:61
+msgid "We encountered an unspecified JSON parsing error."
+msgstr ""
+
+#: includes/class.yith-wcmc-api-exception.php:62
+msgid "Your request did not include an API key."
+msgstr ""
+
+#: includes/class.yith-wcmc-api-exception.php:63
+#, fuzzy
+msgid ""
+"Your API key may be invalid, or you’ve attempted to access the wrong data "
+"center."
+msgstr ""
+"Tu clave API podría ser inválida, o has intentado acceder al datacenter "
+"erróneo."
+
+#: includes/class.yith-wcmc-api-exception.php:64
+msgid "You are not permitted to access this resource."
+msgstr ""
+
+#: includes/class.yith-wcmc-api-exception.php:65
+msgid "This account has been disabled."
+msgstr ""
+
+#: includes/class.yith-wcmc-api-exception.php:66
+msgid "The API key provided is linked to a different data center."
+msgstr ""
+
+#: includes/class.yith-wcmc-api-exception.php:67
+msgid "The requested resource could not be found."
+msgstr ""
+
+#: includes/class.yith-wcmc-api-exception.php:68
+msgid ""
+"The requested method and resource are not compatible. See the Allow header "
+"for this resource’s available methods."
+msgstr ""
+
+#: includes/class.yith-wcmc-api-exception.php:69
+msgid "The sub-resource requested is nested too deeply."
+msgstr ""
+
+#: includes/class.yith-wcmc-api-exception.php:70
+msgid ""
+"You can only use the X-HTTP-Method-Override header with the POST method."
+msgstr ""
+
+#: includes/class.yith-wcmc-api-exception.php:71
+msgid "The fields requested from this resource are invalid."
+msgstr ""
+
+#: includes/class.yith-wcmc-api-exception.php:72
+msgid "You have exceeded the limit of 10 simultaneous connections."
+msgstr ""
+
+#: includes/class.yith-wcmc-api-exception.php:73
+msgid ""
+"An unexpected internal error has occurred. Please contact Support for more "
+"information."
+msgstr ""
+
+#: includes/class.yith-wcmc-api-exception.php:74
+msgid "This method has been disabled."
+msgstr ""
+
+#: includes/class.yith-wcmc-privacy.php:28
+#, fuzzy
+msgctxt "Privacy Policy Content"
+msgid "YITH WooCommerce Mailchimp"
+msgstr "YITH WooCommerce Mailchimp"
+
+#: includes/class.yith-wcmc-privacy.php:51
+msgid "During checkout, we’ll track:"
+msgstr ""
+
+#: includes/class.yith-wcmc-privacy.php:53
+msgid ""
+"Email address, first name, last name: we’ll use this information in order to "
+"populate basic information of your account on MailChimp."
+msgstr ""
+
+#: includes/class.yith-wcmc-privacy.php:54
+msgid ""
+"Billing or shipping data: we’ll use this information in order to complete "
+"your account on MailChimp"
+msgstr ""
+
+#: includes/class.yith-wcmc-privacy.php:55
+msgid ""
+"Order total, payment method, customer IP: we’ll use this information in "
+"order to improve your account, and send you targeted newsletters"
+msgstr ""
+
+#: includes/class.yith-wcmc-privacy.php:56
+msgid ""
+"Preferences, products purchased, categories of products purchased: we’ll use "
+"this information in order to improve your profile, and send you targeted "
+"newsletters"
+msgstr ""
+
+#: includes/class.yith-wcmc-privacy.php:58
+msgid "When subscribing to newsletter, we’ll track:"
+msgstr ""
+
+#: includes/class.yith-wcmc-privacy.php:60
+msgid ""
+"Email address: we’ll use this in order to populate basic information of your "
+"account on MailChimp"
+msgstr ""
+
+#: includes/class.yith-wcmc-privacy.php:61
+msgid ""
+"Any other information submitted through the registration form: we’ll use "
+"this information in order to complete your account on MailChimp and send you "
+"targeted emails."
+msgstr ""
+
+#: includes/class.yith-wcmc-privacy.php:63
+msgid ""
+"We’ll ask for your explicit consent before sending any data to MailChimp "
+"servers."
+msgstr ""
+
+#: includes/class.yith-wcmc-privacy.php:66
+msgid ""
+"Members of our team have access to the information you provide us. For "
+"example, both Administrators and Shop Managers can access:"
+msgstr ""
+
+#: includes/class.yith-wcmc-privacy.php:68
+msgid "All personal data sent to MailChimp;"
+msgstr ""
+
+#: includes/class.yith-wcmc-privacy.php:69
+msgid "Log of your consent;"
+msgstr ""
+
+#: includes/class.yith-wcmc-privacy.php:70
+msgid "MailChimp lists to which you are subscribed."
+msgstr ""
+
+#: includes/class.yith-wcmc-privacy.php:72
+msgid ""
+"Our team members have access to these data in order to review what our "
+"plugin sent to MailChimp servers"
+msgstr ""
+
+#: includes/class.yith-wcmc-privacy.php:75
+msgid ""
+"We contact MailChimp in order to subscribe users and retrieve information "
+"about lists and groups. When processing subscriptions, some of your data "
+"will be passed to MailChimp, including information required to target your "
+"account, such as the billing information and the product(s) you’re "
+"purchasing."
+msgstr ""
+
+#: includes/class.yith-wcmc-privacy.php:76
+msgid ""
+"Please see the <a href=\"https://mailchimp.com/legal/privacy/\">MailChimp "
+"Privacy Policy</a> for more details."
+msgstr ""
+
+#: includes/class.yith-wcmc-privacy.php:96
+#, fuzzy
+msgid "Mailchimp Subscribed Lists"
+msgstr "YITH Mailchimp Subscription Form"
+
+#: includes/class.yith-wcmc-privacy.php:137
+msgid "User unsubscribed from %d lists."
+msgstr ""
+
+#: includes/class.yith-wcmc-privacy.php:152
+#, fuzzy
+msgid "Mailchimp Data"
+msgstr "Mailchimp"
+
+#: includes/class.yith-wcmc.php:575
+#, fuzzy
+msgctxt "Default email field name (backend)"
+msgid "Email Address"
+msgstr "Email añadido: "
+
+#: includes/class.yith-wcmc.php:807
+msgctxt "Generic API error message"
+msgid "Server returned an unexpected response; please, try again later"
+msgstr ""
+
+#: includes/class.yith-wcmc.php:1036
+msgid "Privacy Policy"
+msgstr ""
+
+#: includes/class.yith-wcmc.php:1174
+msgid "MAILCHIMP ERROR: (%s) %s"
+msgstr "ERROR DE MAILCHIMP: (%s) %s"
+
+#: includes/class.yith-wcmc.php:1183
+#, fuzzy
+msgid "First name"
+msgstr "Nombre del campo"
+
+#: includes/class.yith-wcmc.php:1184
+msgid "Last name"
+msgstr ""
+
+#: includes/class.yith-wcmc.php:1185
+#, fuzzy
+msgid "Email"
+msgstr "Correo electrónico:"
+
+#: init.php:138
+#, fuzzy
+msgid ""
+"%s is enabled but not effective. It requires WooCommerce in order to work."
+msgstr ""
+"YITH WooCommerce Mailchimp esta activado pero no es efectivo. Requiere "
+"WooCommerce para funcionar."
+
+#: init.php:148
+#, fuzzy
+msgid ""
+"You can't activate the free version of %s while you are using the premium "
+"one."
+msgstr ""
+"No puedes activar la versión free de YITH WooCommerce MailChimp mientras "
+"estás usando la versión premium."
+
+#: plugin-options/checkout-options.php:21
+msgid "Mailchimp Options"
+msgstr "Opciones de Mailchimp"
+
+#: plugin-options/checkout-options.php:28
+msgid "Register after"
+msgstr "Registrar después de"
+
+#: plugin-options/checkout-options.php:30
+msgid "Select when the user should be added to the list"
+msgstr "Selecciona cuándo se añade el usuario a la lista"
+
+#: plugin-options/checkout-options.php:33
+msgid "Never"
+msgstr "Nunca"
+
+#: plugin-options/checkout-options.php:34
+msgid "Order completed"
+msgstr "Pedido completado"
+
+#: plugin-options/checkout-options.php:35
+msgid "Order placed"
+msgstr "Pedido realizado"
+
+#: plugin-options/checkout-options.php:41
+msgid "Show \"Newsletter subscription\" checkbox"
+msgstr "Mostrar casilla \"Suscripción a la Newsletter\""
+
+#: plugin-options/checkout-options.php:44
+msgid ""
+"When you select this option, a checkbox will be added to the checkout form, "
+"inviting users to subscribe to the newsletter; otherwise, users will be "
+"subscribed automatically"
+msgstr ""
+"Cuando seleccionas esta opción, se añadirá una casilla al formulario de "
+"pago, invitando a los usuarios a suscribirse a la newsletter; si no, los "
+"usuarios se suscribirán automáticamente"
+
+#: plugin-options/checkout-options.php:49
+msgid "\"Newsletter subscription\" label"
+msgstr "Etiqueta \"Suscripción a la Newsletter\""
+
+#: plugin-options/checkout-options.php:51
+#, fuzzy
+msgid ""
+"Enter here the label you want to use for the \"Newsletter subscription\" "
+"checkbox. Use <code>%privacy_policy%</code> to add a link to your store "
+"privacy policy page"
+msgstr ""
+"Introduce aquí la etiqueta que quieres usar para la casilla \"Suscripción a "
+"la Newsletter\""
+
+#: plugin-options/checkout-options.php:53
+msgid "Subscribe to our cool newsletter"
+msgstr "Suscríbete a nuestra newsletter"
+
+#: plugin-options/checkout-options.php:58
+msgid "Position for \"Newsletter subscription\""
+msgstr "Posición de \"Suscripción a la Newsletter\""
+
+#: plugin-options/checkout-options.php:60
+msgid "Select position for \"Newsletter subscription\" checkbox in the page"
+msgstr ""
+"Selecciona la posición de la casilla de \"Suscripción a la Newsletter\" en "
+"la página"
+
+#: plugin-options/checkout-options.php:63
+msgid "Above customer details"
+msgstr "Encima de los detalles del cliente"
+
+#: plugin-options/checkout-options.php:64
+msgid "Below customer details"
+msgstr "Debajo de los detalles del cliente"
+
+#: plugin-options/checkout-options.php:65
+msgid "Above \"Place order\" button"
+msgstr "Encima del botón \"Realizar pedido\""
+
+#: plugin-options/checkout-options.php:66
+msgid "Below \"Place order\" button"
+msgstr "Debajo del botón \"Realizar pedido\""
+
+#: plugin-options/checkout-options.php:67
+msgid "Above \"Review order\" total"
+msgstr "Encima de los totales de \"Revisión del pedido\""
+
+#: plugin-options/checkout-options.php:68
+msgid "Above billing details"
+msgstr "Encima de los detalles de facturación"
+
+#: plugin-options/checkout-options.php:69
+msgid "Below billing details"
+msgstr "Debajo de los detalles de facturación"
+
+#: plugin-options/checkout-options.php:70
+msgid "Above shipping details"
+msgstr "Encima de los detalles de envío"
+
+#: plugin-options/checkout-options.php:77
+msgid "Show \"Newsletter subscription\" checked"
+msgstr "Mostrar \"Suscripción a la Newsletter\" marcada"
+
+#: plugin-options/checkout-options.php:80
+msgid ""
+"When you check this option, \"Newsletter subscription\" checkbox will be "
+"printed as already checked"
+msgstr ""
+"Cuando marcas esta opción, la casilla de \"Suscripción a la Newsletter\" se "
+"imprimirá ya marcada"
+
+#: plugin-options/checkout-options.php:85
+msgid "Email type"
+msgstr "Tipo de email"
+
+#: plugin-options/checkout-options.php:88
+msgid "User's preferential email type (HTML or plain text)"
+msgstr ""
+"Tipo de correo electrónico preferido por el usuario (HTML o texto sin "
+"formato)"
+
+#: plugin-options/checkout-options.php:90
+msgid "HTML"
+msgstr "HTML"
+
+#: plugin-options/checkout-options.php:91
+msgid "Text"
+msgstr "Texto"
+
+#: plugin-options/checkout-options.php:97
+msgid "Double Opt-in"
+msgstr "Doble Opt-in"
+
+#: plugin-options/checkout-options.php:100
+msgid ""
+"When you check this option, MailChimp will send a confirmation email before "
+"adding the user to the list"
+msgstr ""
+"Cuando marcas esta opción, MailChimp enviará un email de confirmación antes "
+"de añadir al usuario a la lista"
+
+#: plugin-options/checkout-options.php:105
+msgid "Update existing"
+msgstr "Añadir existentes"
+
+#: plugin-options/checkout-options.php:108
+msgid ""
+"When you check this option, existing users will be updated and MailChimp "
+"servers will not show errors"
+msgstr ""
+"Cuando marcas esta opción, los usuarios existentes serán actualizados y los "
+"servidores MailChimp no mostrarán errores"
+
+#: plugin-options/checkout-options.php:118
+msgid "List Options"
+msgstr "Opciones de Lista"
+
+#: plugin-options/checkout-options.php:125
+msgid "MailChimp list"
+msgstr "Lista MailChimp"
+
+#: plugin-options/checkout-options.php:127
+msgid "Select a list for the new user"
+msgstr "Selecciona una lista para el usuario nuevo"
+
+#: plugin-options/integration-options.php:17
+msgid "Upgrade to the PREMIUM VERSION"
+msgstr "Mejorar a la VERSIÓN PREMIUM"
+
+#. #-#-#-#-#  yith-woocommerce-mailchimp.pot (YITH WooCommerce Mailchimp 2.1.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: plugin-options/integration-options.php:20
+msgid "YITH WooCommerce Mailchimp"
+msgstr "YITH WooCommerce Mailchimp"
+
+#: plugin-options/integration-options.php:21
+msgid "Discover the Advanced Features"
+msgstr "Descubre las características avanzadas"
+
+#: plugin-options/integration-options.php:22
+msgid ""
+"Upgrade to the PREMIUM VERSION of YITH WOOCOMMERCE MAILCHIMP to benefit from "
+"all features!"
+msgstr ""
+"¡Actualiza a la VERSIÓN PREMIUM de YITH WOOCOMMERCE MAILCHIMP para "
+"beneficiarte de todas las características!"
+
+#: plugin-options/integration-options.php:28
+msgid "Get Support and Pro Features"
+msgstr "Hazte con Soporte y Características Pro"
+
+#: plugin-options/integration-options.php:29
+msgid ""
+"By purchasing the premium version of the plugin, you will take advantage of "
+"the advanced features of the product and you will get one year of free "
+"updates and support through our platform available 24h/24."
+msgstr ""
+"Comprando la versión premium del plugin, obtendrás las ventajas de las "
+"características avanzadas del producto y obtendrás un año de actualizaciones "
+"gratuitas y soporte a través de nuestra plataforma disponible 24h/24."
+
+#: plugin-options/integration-options.php:39
+msgid "MailChimp Options"
+msgstr "Opciones de Mailchimp"
+
+#: plugin-options/integration-options.php:46
+msgid "MailChimp API Key"
+msgstr "Clave API de MailChimp"
+
+#: plugin-options/integration-options.php:49
+msgid ""
+"API key used to access MailChimp account; you can get one <a href=\"//admin."
+"mailchimp.com/account/api/\">here</a>"
+msgstr ""
+"API que se usa para acceder a la cuenta de MailChimp; puedes conseguir una "
+"<a href=\"//admin.mailchimp.com/account/api/\">aquí</a>"
+
+#: plugin-options/integration-options.php:55
+msgid "Integration status"
+msgstr "Estado de la integración"
+
+#: templates/admin/types/integration-status.php:11
+msgid "MailChimp user"
+msgstr "usuario MailChimp"
+
+#: templates/admin/types/integration-status.php:11
+msgid "No user can be found with this API key"
+msgstr "No se puede encontrar a ningún usuario con esta clave API"
+
+#: templates/admin/types/integration-status.php:12
+#: templates/admin/types/integration-status.php:29
+#: templates/admin/types/integration-status.php:35
+msgid "&lt; Not Found &gt;"
+msgstr "&lt; No Encontrado &gt;"
+
+#: templates/admin/types/integration-status.php:17
+msgid "Status:"
+msgstr "Estado: "
+
+#: templates/admin/types/integration-status.php:20
+msgid "Correctly synchronized"
+msgstr "Sincronizado correctamente"
+
+#: templates/admin/types/integration-status.php:20
+msgid "OK"
+msgstr "OK"
+
+#: templates/admin/types/integration-status.php:22
+msgid "Wrong API key"
+msgstr "Clave API errónea"
+
+#: templates/admin/types/integration-status.php:22
+msgid "KO"
+msgstr "KO"
+
+#: templates/admin/types/integration-status.php:27
+msgid "Name:"
+msgstr "Nombre:"
+
+#: templates/admin/types/integration-status.php:33
+msgid "Email:"
+msgstr "Correo electrónico:"
+
+#. Plugin URI of the plugin/theme
+msgid "https://yithemes.com/themes/plugins/yith-woocommerce-mailchimp/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"<code><strong>YITH WooCommerce Mailchimp</strong></code> allows you to "
+"manage and create forms to register to MailChimp lists, helping you to "
+"outline users through tags and groups in a dynamic way. You will have a "
+"perfect system to send emails with a percentage of conversion higher than "
+"the average. <a href=\"https://yithemes.com/\" target=\"_blank\">Get more "
+"plugins for your e-commerce on <strong>YITH</strong></a>"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "YITH"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://yithemes.com/"
+msgstr ""
+
+#~ msgctxt "Mailchimp error translation (-50)"
+#~ msgid "You have made too many connections on the MailChimp server."
+#~ msgstr "Has realizado demasiadas conexiones con el servidor MailChimp."
+
+#~ msgctxt "MailChimp error translation (101)"
+#~ msgid ""
+#~ "You cannot use your APIs, because your user profile has been deactivated."
+#~ msgstr "No puedes usar tus APIs, porque tu perfil ha sido desactivado."
+
+#~ msgctxt "MailChimp error translation (105)"
+#~ msgid ""
+#~ "You cannot use your APIs, because your user profile is under maintenance."
+#~ msgstr ""
+#~ "No puedes usar tus APIs, porque tu perfil de usuario está en "
+#~ "mantenimiento."
+
+#~ msgctxt "MailChimp error translation (109)"
+#~ msgid ""
+#~ "You cannot complete your operation, because you don't have the necessary "
+#~ "authorization."
+#~ msgstr ""
+#~ "No puedes completar la operación, porque no tienes la autorización "
+#~ "necesaria."
+
+#~ msgctxt "MailChimp error translation (232)"
+#~ msgid ""
+#~ "The email you have written is not valid, please try to write it again."
+#~ msgstr ""
+#~ "El email que has escrito no es válido, por favor, intenta escribirlo de "
+#~ "nuevo."
+
+#~ msgctxt "MailChimp error translation (500)"
+#~ msgid "The sent information are not valid, please double check them."
+#~ msgstr "La información enviada no es válida, por favor, compruébala."
+
+#~ msgctxt "MailChimp error translation (-99)"
+#~ msgid "You submitted an invalid email address that cannot be imported."
+#~ msgstr "Has enviado una dirección de email inválida que no puede impotarse"
+
+#~ msgctxt "MailChimp error translation (200)"
+#~ msgid "Invalid MailChimp List ID."
+#~ msgstr "ID de lista MailChimp inválido."
+
+#~ msgctxt "MailChimp error translation (214)"
+#~ msgid ""
+#~ "You submitted an email address that is already subscribed to the list."
+#~ msgstr "Has enviado una dirección de email que ya está suscrita a la lista."
+
+#~ msgid "Send welcome email"
+#~ msgstr "Enviar email de bienvenida"
+
+#~ msgid ""
+#~ "Send a welcome email to the user (only available when double opt-in is "
+#~ "disabled)"
+#~ msgstr ""
+#~ "Envía un email de bienvenida al usuario (sólo disponible cuando doble opt-"
+#~ "in está deshabilitado)"
+
+#~ msgid "Settings"
+#~ msgstr "Ajustes"
+
+#~ msgid "Live Demo"
+#~ msgstr "Live Demo"
+
+#~ msgid "Plugin Documentation"
+#~ msgstr "Documentación del Plugin"
+
+#~ msgid "Export Users"
+#~ msgstr "Exportar Usuarios"
+
+#~ msgid "Download CSV"
+#~ msgstr "Descargar CSV"
+
+#~ msgid "Shortcode"
+#~ msgstr "Shortcode"
+
+#~ msgid "Widget"
+#~ msgstr "Widget"
+
+#~ msgid "Export"
+#~ msgstr "Exportar"
+
+#~ msgid "eCommerce 360"
+#~ msgstr "eCommerce 360"
+
+#~ msgid "Enable eCommerce 360 integration"
+#~ msgstr "Habilitar integración eCommerce 360"
+
+#~ msgid ""
+#~ "When you check this option, data of the orders made by users coming from "
+#~ "a campaign will be collected and sent to MailChimp servers, for "
+#~ "segmentation purpose"
+#~ msgstr ""
+#~ "Cuando marcas esta opción, los datos de los pedidos realizados por los "
+#~ "usuarios provenientes de una campaña serán reunidos y enviados a "
+#~ "servidores de MailChimp, para propósitos de segmentación"
+
+#~ msgid "eCommerce 360 cookie lifetime"
+#~ msgstr "tiempo de vida de las cookies eCommerce 360"
+
+#~ msgid "Seconds that have to pass before eCommerce 360 cookies expire"
+#~ msgstr ""
+#~ "Segundos que tienen que pasar antes de que las cookies eCommerce 360 "
+#~ "caduquen"
+
+#~ msgid "Replace interests"
+#~ msgstr "Sustituir intereses"
+
+#~ msgid ""
+#~ "When you check this option, interest group of an already registered user "
+#~ "will be replaced by the one selected in the new subscription"
+#~ msgstr ""
+#~ "Si marcas esta opción, el grupo de interés de un usuario registrado será "
+#~ "sustituido por uno seleccionado en la suscripción nueva"
+
+#~ msgid "Integration mode"
+#~ msgstr "Modo de integración"
+
+#~ msgid ""
+#~ "Select whether to use a basic set of options or add integration settings"
+#~ msgstr ""
+#~ "Selecciona si usar un conjunto básico de opciones o añadir ajustes de "
+#~ "integración"
+
+#~ msgid "Simple"
+#~ msgstr "Simple"
+
+#~ msgid "Advanced"
+#~ msgstr "Avanzado"
+
+#~ msgid "Interest groups"
+#~ msgstr "Grupos de interés"
+
+#~ msgid "Select an interest group for the new user"
+#~ msgstr "Selecciona un grupo de interés para el usuario nuevo"
+
+#~ msgid "Advanced options"
+#~ msgstr "Opciones Avanzadas"
+
+#~ msgid "Shipping method name"
+#~ msgstr "Nombre del método de envío"
+
+#~ msgid "Payment method name"
+#~ msgstr "Nombre del medio de pago"
+
+#~ msgid "User ID"
+#~ msgstr "ID de usuario"
+
+#~ msgid "Custom"
+#~ msgstr "Personalizado"
+
+#~ msgid "Email updated: "
+#~ msgstr "Email actualizado: "
+
+#~ msgid "Error encountered: "
+#~ msgstr "Error encontrado: "
+
+#~ msgid "Required arguments missing"
+#~ msgstr "Faltan argumentos obligatorios"
+
+#~ msgid "Ops! It seems you are not allowed to do this"
+#~ msgstr "¡Ups! Parece que no tienes permiso para hacer esto"
+
+#~ msgid "Great! You're now subscribed to our newsletter"
+#~ msgstr "¡Perfecto! Ya estás suscrito a nuestra newsletter"
+
+#~ msgid "Display a Mailchimp subscription form in sidebars"
+#~ msgstr "Mostrar un formulario de suscripción Mailchimp en barras laterales"
+
+#~ msgid ""
+#~ "You can customize options for <b>Mailchimp Subscription Form</b> widget "
+#~ "from YITH WooCommerce Mailchimp <a href=\"%s\">admin page</a>"
+#~ msgstr ""
+#~ "Puedes personalizar las opciones para el widget de <b>Mailchimp "
+#~ "Subscription Form</b> desde la <a href=\"%s\">página de admin </a>de YITH "
+#~ "WooCommerce Mailchimp"
+
+#~ msgid "Export a set of users from your store to one of your MailChimp lists"
+#~ msgstr ""
+#~ "Exportar un grupo de usuarios de tu tienda a una de tus listas de "
+#~ "MailChimp"
+
+#~ msgid "User preferential email type (HTML or plain text)"
+#~ msgstr "Tipo de email preferido por el usuario (HTML o texto sin formato)"
+
+#~ msgid "Users set"
+#~ msgstr "Grupo de usuarios"
+
+#~ msgid "Select a set of users to export"
+#~ msgstr "Seleccionar un grupo de usuarios que exportar"
+
+#~ msgid "All Users"
+#~ msgstr "Todos los usuarios"
+
+#~ msgid "All Customers"
+#~ msgstr "Todos los clientes"
+
+#~ msgid "Select manually a set of users"
+#~ msgstr "Seleccionar manualmente un grupo de usuarios"
+
+#~ msgid "Filter users using custom conditions"
+#~ msgstr "Filtrar usuarios usando condiciones personalizadas"
+
+#~ msgid "Waiting Lists"
+#~ msgstr "Listas de espera"
+
+#~ msgid "Customers to export"
+#~ msgstr "Clientes que exportar"
+
+#~ msgid "Select customers to export"
+#~ msgstr "Seleccionar clientes que exportar"
+
+#~ msgid "Select customers"
+#~ msgstr "Seleccionar clientes"
+
+#~ msgid "Filter by product"
+#~ msgstr "Filtrar por productos"
+
+#~ msgid "Export users that bought at least one of the selected products"
+#~ msgstr ""
+#~ "Exportar usuarios que han comprado al menos uno de los productos "
+#~ "seleccionados"
+
+#~ msgid "Select products"
+#~ msgstr "Seleccionar productos"
+
+#~ msgid "Filter by categories"
+#~ msgstr "Filtrar por categorías"
+
+#~ msgid ""
+#~ "Export users that bought a product belonging at least to one of the "
+#~ "selected categories"
+#~ msgstr ""
+#~ "Exportar usuarios que han comprado un producto que pertenece al menos a "
+#~ "una de las siguientes categorías"
+
+#~ msgid "Select categories"
+#~ msgstr "Seleccionar categorías"
+
+#~ msgid "Filter by tags"
+#~ msgstr "Filtrar por etiquetas"
+
+#~ msgid ""
+#~ "Export users that bought a product with at least one of the selected tags"
+#~ msgstr ""
+#~ "Exportar usuarios que compraron un producto con al menos una de las "
+#~ "etiquetas seleccionadas"
+
+#~ msgid "Select tags"
+#~ msgstr "Seleccionar etiquetas"
+
+#~ msgid "Filter by date"
+#~ msgstr "Filtrar por fecha"
+
+#~ msgid "Export users that purchased within this date range"
+#~ msgstr "Exportar usuarios que compraron dentro de este rango de fechas"
+
+#~ msgid "Waiting products"
+#~ msgstr "Productos en espera"
+
+#~ msgid "MailChimp field where all products users are waiting for appear"
+#~ msgstr ""
+#~ "Campo MailChimp donde todos los usuarios de los productos están esperando "
+#~ "aparecer"
+
+#~ msgid "Export a set of users from your store to a CVS file"
+#~ msgstr "Exportar un grupo de usuarios de tu tienda a un archivo CSV"
+
+#~ msgid "Users to export"
+#~ msgstr "Usuarios que exportar"
+
+#~ msgid "Select users to export"
+#~ msgstr "Seleccionar usuarios que exportar"
+
+#~ msgid "Select users"
+#~ msgstr "Seleccionar usuarios"
+
+#~ msgid "Export users that bought a specific product"
+#~ msgstr "Exportar usuarios que han comprado un producto específico"
+
+#~ msgid "Export users that bought a product belonging to a specific category"
+#~ msgstr ""
+#~ "Exportar usuarios que han comprado un producto que pertenece a una "
+#~ "categoría específica"
+
+#~ msgid "Filter by tag"
+#~ msgstr "Filtrar por etiqueta"
+
+#~ msgid "Export users that bought a product with a specific tag"
+#~ msgstr ""
+#~ "Exportar usuarios que han comprado un producto con una etiqueta específica"
+
+#~ msgid "Shortcode Options"
+#~ msgstr "Opciones de Shortcode"
+
+#~ msgid ""
+#~ "Insert <b>[yith_wcmc_subscription_form]</b> shortcode in your pages, to "
+#~ "print a subscription form; set here the options for your form"
+#~ msgstr ""
+#~ "Inserta el shortcode <b>[yith_wcmc_subscription_form]</b> en tus páginas "
+#~ "para imprimir un formulario de suscripción; ajusta aquí las opciones de "
+#~ "tu formulario"
+
+#~ msgid "Form title"
+#~ msgstr "Título del formulario"
+
+#~ msgid "Select a title for the newsletter subscription form"
+#~ msgstr ""
+#~ "Selecciona un título para el formulario de subscripción de la newsletter"
+
+#~ msgid "Newsletter"
+#~ msgstr "Newsletter"
+
+#~ msgid "\"Submit\" button label"
+#~ msgstr "Etiqueta del botón \"Enviar\""
+
+#~ msgid "Select a label for the \"Submit\" button found in the form"
+#~ msgstr "Selecciona la etiqueta para el botón de \"Enviar\" del formulario"
+
+#~ msgid "SUBMIT"
+#~ msgstr "ENVIAR"
+
+#~ msgid "\"Successfully Registered\" message"
+#~ msgstr "Mensaje de \"Registrado satisfactoriamente\""
+
+#~ msgid ""
+#~ "Select a message to display to users when registration has been completed "
+#~ "successfully"
+#~ msgstr ""
+#~ "Selecciona un mensaje para mostrar a los usuarios cuando el registro se "
+#~ "ha completado satisfactoriamente"
+
+#~ msgid "Hide form after registration"
+#~ msgstr "Ocultar formulario después del registro"
+
+#~ msgid ""
+#~ "When you select this option, the registration form will be hidden after a "
+#~ "successful registration"
+#~ msgstr ""
+#~ "Si seleccionas esta opción, el formulario de registro se ocultará después "
+#~ "de un registro satisfactorio"
+
+#~ msgid ""
+#~ "When you check this option, existing users will be updated, and MailChimp "
+#~ "servers will not show errors"
+#~ msgstr ""
+#~ "Cuando marcas esta opción, los usuarios existentes serán actualizados, y "
+#~ "los servidores Mailchimp no mostrarán errores"
+
+#~ msgid ""
+#~ "When you check this option, interest group of an already registered user "
+#~ "will be replaced with the one in the new subscription"
+#~ msgstr ""
+#~ "Cuando marcas esta opción, el grupo de interés de un usuario registrado "
+#~ "se sustituirá con el que aparece en la suscripción nueva"
+
+#~ msgid "Auto-subscribe interest groups"
+#~ msgstr "Suscribir automáticamente a grupos de interés"
+
+#~ msgid "Select an interest group to which new users are automatically added"
+#~ msgstr ""
+#~ "Seleccionar un grupo de interés al que los usuarios nuevos se suscriben "
+#~ "automáticamente"
+
+#~ msgid "Show the following interest groups"
+#~ msgstr "Mostrar los siguientes grupos de interés"
+
+#~ msgid "Select interests groups that user can choose among"
+#~ msgstr ""
+#~ "Selecciona los grupos de interés entre los cuales el usuario puede elegir"
+
+#~ msgid "Field Options"
+#~ msgstr "Opciones de campo"
+
+#~ msgid "Fields"
+#~ msgstr "Campos"
+
+#~ msgid "Style Options"
+#~ msgstr "Opciones de estilo"
+
+#~ msgid "Enable custom CSS"
+#~ msgstr "Habilitar CSS personalizado"
+
+#~ msgid "Check this option to enable custom CSS handling"
+#~ msgstr "Marca esta opción para habilitar el ajuste de CSS personalizado"
+
+#~ msgid "Round Corners for \"Subscribe\" Button"
+#~ msgstr "Esquinas redondas en el botón de \"Suscríbete\""
+
+#~ msgid "Check this option  to make button corners round"
+#~ msgstr ""
+#~ "Marca esta opción para hacer que las esquinas del botón sean redondas"
+
+#~ msgid "\"Subscribe\" Button Background Color"
+#~ msgstr "Color de fondo del botón \"Suscríbete\""
+
+#~ msgid "\"Subscribe\" Button Text Color"
+#~ msgstr "Color del texto del botón \"Suscríbete\""
+
+#~ msgid "\"Subscribe\" Button Border Color"
+#~ msgstr "Color del borde del botón \"Suscríbete\""
+
+#~ msgid "\"Subscribe\" Button Hover Background Color"
+#~ msgstr "Color de fondo en hover del botón \"Suscríbete\""
+
+#~ msgid "\"Subscribe\" Button Hover Text Color"
+#~ msgstr "Color del texto en hover del botón \"Suscríbete\""
+
+#~ msgid "\"Subscribe\" Button Hover Border Color"
+#~ msgstr "Color del borde en hover del botón \"Suscríbete\""
+
+#~ msgid "Custom CSS"
+#~ msgstr "CSS personalizado"
+
+#~ msgid "Insert here your custom CSS that has to be applied to the shortcode"
+#~ msgstr "Inserta aquí tu CSS personalizado para aplicarla al shortcode"
+
+#~ msgid "Widget Options"
+#~ msgstr "Opciones de Widget"
+
+#~ msgid ""
+#~ "Set here the options for <b>YITH MailChimp Subscription Form</b> widget; "
+#~ "use the widget in you sidebars, by selecting it from <a href=\"%s"
+#~ "\">Appearance > Widgets</a>"
+#~ msgstr ""
+#~ "Ajusta aquí las opciones para el widget <b>YITH MailChimp Subscription "
+#~ "Form</b>; usa el widget en tus barras laterales, seleccionándolo desde <a "
+#~ "href=\"%s\">Apariencia > Widgets</a>"
+
+#~ msgid ""
+#~ "When you check this option, interest group of an already registered user "
+#~ "will be replaced with the one selected in the new subscription"
+#~ msgstr ""
+#~ "Cuando marcas esta opción, un grupo de interés de un usuario ya "
+#~ "registrado se sustituirá por el ya seleccionado en la nueva suscripción"
+
+#~ msgid "Custom css"
+#~ msgstr "Css personalizado"
+
+#~ msgid "Insert here your custom CSS for the widget"
+#~ msgstr "Inserta aquí tu CSS personalizado para el widget"
+
+#~ msgid "Prev"
+#~ msgstr "Anterior"
+
+#~ msgid "Next"
+#~ msgstr "Siguiente"
+
+#~ msgid "Member count"
+#~ msgstr "Miembros suscritos"
+
+#~ msgid "total"
+#~ msgstr "total"
+
+#~ msgid "Avg sub rate"
+#~ msgstr "Tasa media de suscripción"
+
+#~ msgid "per month"
+#~ msgstr "al mes"
+
+#~ msgid "Avg unsub rate"
+#~ msgstr "Tasa media de desuscripción"
+
+#~ msgid "Open rate"
+#~ msgstr "Tasa de apertura"
+
+#~ msgid "per campaign"
+#~ msgstr "por campaña"
+
+#~ msgid "Click rate"
+#~ msgstr "Tasa de click"
+
+#~ msgid "Refresh stats"
+#~ msgstr "Actualizar estadísticas"
+
+#~ msgid "Condition"
+#~ msgstr "Condición"
+
+#~ msgid "Product in cart"
+#~ msgstr "Producto en el carrito"
+
+#~ msgid "Product category in cart"
+#~ msgstr "Categoría de producto en el carrito"
+
+#~ msgid "Order total"
+#~ msgstr "Pedido total"
+
+#~ msgid "Details"
+#~ msgstr "Detalles"
+
+#~ msgid "Contains at least one of"
+#~ msgstr "Contiene al menos uno de"
+
+#~ msgid "Contains all of"
+#~ msgstr "Contiene todos"
+
+#~ msgid "Does not contain"
+#~ msgstr "No contiene"
+
+#~ msgid "Less than"
+#~ msgstr "Menor que"
+
+#~ msgid "Less than or equal to"
+#~ msgstr "Menor o igual a"
+
+#~ msgid "Equals to"
+#~ msgstr "Igual a"
+
+#~ msgid "Greater than or equal to"
+#~ msgstr "Mayor o igual a"
+
+#~ msgid "Greater than"
+#~ msgstr "Mayor que"
+
+#~ msgid "Search for a product&hellip;"
+#~ msgstr "Buscar un producto&hellip;"
+
+#~ msgid "Select a category"
+#~ msgstr "Seleccionar una categoría"
+
+#~ msgid "Threshold"
+#~ msgstr "Umbral"
+
+#~ msgid "Field name in checkout page"
+#~ msgstr "Nombre de campo en la página de pago"
+
+#~ msgid "String operator"
+#~ msgstr "Operador de cadena"
+
+#~ msgid "Is"
+#~ msgstr "Está"
+
+#~ msgid "Is not"
+#~ msgstr "No está"
+
+#~ msgid "Contains"
+#~ msgstr "Contiene"
+
+#~ msgid "Number"
+#~ msgstr "Número"
+
+#~ msgid "Equal to"
+#~ msgstr "Igual a"
+
+#~ msgid "Field value in checkout page"
+#~ msgstr "Campo de valor en la página de pago"
+
+#~ msgid "Remove"
+#~ msgstr "Eliminar"
+
+#~ msgid "Checkout field"
+#~ msgstr "Campo de pago"
+
+#~ msgid "MailChimp field"
+#~ msgstr "Campo MailChimp"
+
+#~ msgid "Update fields"
+#~ msgstr "Actualizar campos"
+
+#~ msgid "toggle"
+#~ msgstr "alternar"
+
+#~ msgid "remove"
+#~ msgstr "eliminar"
+
+#~ msgid "Options Set #"
+#~ msgstr "Grupo de opciones nº"
+
+#~ msgid "Lists & Groups"
+#~ msgstr "Listas y grupos"
+
+#~ msgid "Select an interest group for the user"
+#~ msgstr "Selecciona un grupo de interés para el usuario"
+
+#~ msgid "+ Add New Field"
+#~ msgstr "+ Añadir nuevo campo"
+
+#~ msgid ""
+#~ "Select the checkout field to connect with the MailChimp list merge var"
+#~ msgstr ""
+#~ "Selecciona el campo de pago que se conecta con la lista de etiquetas "
+#~ "merge de MailChimp"
+
+#~ msgid "Conditions"
+#~ msgstr "Condiciones"
+
+#~ msgid "+ Add New Condition"
+#~ msgstr "+ Añadir Nueva Condición"
+
+#~ msgid ""
+#~ "Select order matching conditions for user's subscription; all conditions "
+#~ "selected must be matched in order to complete subscription"
+#~ msgstr ""
+#~ "Selecciona las condiciones que coinciden con la suscripción del usuario; "
+#~ "todas las condiciones seleccionadas deben coincidir para completar la "
+#~ "suscripción"
+
+#~ msgid "+ Add option set"
+#~ msgstr "+ Añadir grupo de opciones"
+
+#~ msgid ""
+#~ "Click \"Add option set\" button to add a bunch of options; don't forget "
+#~ "to save, when you're done"
+#~ msgstr ""
+#~ "Haz click en el botón \"Añadir grupo de opciones\" para añadir un "
+#~ "conjunto de opciones; no olvides guardar cuando acabes"
+
+#~ msgid "Merge var"
+#~ msgstr "Etiquetas merge"
+
+#~ msgid ""
+#~ "Select the checkout field that will be connected to MailChimp's list "
+#~ "merge var"
+#~ msgstr ""
+#~ "Selecciona el campo de la página de pago que se conectará a la lista de "
+#~ "etiquetas merge de Mailchimp"
+
+#~ msgid "From"
+#~ msgstr "De"
+
+#~ msgid "To"
+#~ msgstr "Para"
+
+#~ msgid "Street Address"
+#~ msgstr "Dirección"
+
+#~ msgid "Address Line 2"
+#~ msgstr "2ª Línea de dirección"
+
+#~ msgid "City"
+#~ msgstr "Ciudad"
+
+#~ msgid "State/Province"
+#~ msgstr "Estado/Provincia"
+
+#~ msgid "Zip"
+#~ msgstr "Código Postal"
